@@ -1,0 +1,782 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.434632953465586,
+          50.33503292077328
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09673",
+        "name": "Aubstadt",
+        "population": 734,
+        "area": 11.87,
+        "centroid_coordinates": [
+          10.434632953465586,
+          50.33503292077328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.213688261773918,
+          50.3326566172329
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "land-id": "09673",
+        "name": "Bad Neustadt a.d.Saale",
+        "population": 15438,
+        "area": 36.84,
+        "centroid_coordinates": [
+          10.213688261773918,
+          50.3326566172329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.178102997713015,
+          50.3946999098302
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09673",
+        "name": "Bastheim",
+        "population": 1987,
+        "area": 41.6,
+        "centroid_coordinates": [
+          10.178102997713015,
+          50.3946999098302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001574407166132,
+          50.398382383451576
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09673",
+        "name": "Bischofsheim i.d.Rhön",
+        "population": 4758,
+        "area": 67.48,
+        "centroid_coordinates": [
+          10.001574407166132,
+          50.398382383451576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.136486715350427,
+          50.52982759847292
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "land-id": "09673",
+        "name": "Fladungen",
+        "population": 2143,
+        "area": 46.31,
+        "centroid_coordinates": [
+          10.136486715350427,
+          50.52982759847292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.363243154867554,
+          50.2628208588716
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09673",
+        "name": "Großbardorf",
+        "population": 947,
+        "area": 16.5,
+        "centroid_coordinates": [
+          10.363243154867554,
+          50.2628208588716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.400170764957835,
+          50.30449619374769
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09673",
+        "name": "Großeibstadt",
+        "population": 1031,
+        "area": 16.66,
+        "centroid_coordinates": [
+          10.400170764957835,
+          50.30449619374769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.087181624823378,
+          50.49727660989141
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09673",
+        "name": "Hausen",
+        "population": 674,
+        "area": 24.22,
+        "centroid_coordinates": [
+          10.087181624823378,
+          50.49727660989141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.373838266244288,
+          50.390745210041224
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "land-id": "09673",
+        "name": "Hendungen",
+        "population": 833,
+        "area": 22.9,
+        "centroid_coordinates": [
+          10.373838266244288,
+          50.390745210041224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.504699748494609,
+          50.33939759361555
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09673",
+        "name": "Herbstadt",
+        "population": 622,
+        "area": 20.7,
+        "centroid_coordinates": [
+          10.504699748494609,
+          50.33939759361555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.256697837959651,
+          50.351553720896376
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09673",
+        "name": "Heustreu",
+        "population": 1268,
+        "area": 10.54,
+        "centroid_coordinates": [
+          10.256697837959651,
+          50.351553720896376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.44928710278854,
+          50.36650521411374
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09673",
+        "name": "Höchheim",
+        "population": 1050,
+        "area": 25.24,
+        "centroid_coordinates": [
+          10.44928710278854,
+          50.36650521411374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.151886244555698,
+          50.32503637330668
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09673",
+        "name": "Hohenroth",
+        "population": 3552,
+        "area": 17.22,
+        "centroid_coordinates": [
+          10.151886244555698,
+          50.32503637330668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.328103016615291,
+          50.358172205619255
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09673",
+        "name": "Hollstadt",
+        "population": 1493,
+        "area": 24.28,
+        "centroid_coordinates": [
+          10.328103016615291,
+          50.358172205619255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.484986470460006,
+          50.28405820907432
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09673",
+        "name": "Bad Königshofen i.Grabfeld",
+        "population": 5995,
+        "area": 69.44,
+        "centroid_coordinates": [
+          10.484986470460006,
+          50.28405820907432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.317730639416554,
+          50.433238577366126
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "land-id": "09673",
+        "name": "Mellrichstadt",
+        "population": 5536,
+        "area": 55.72,
+        "centroid_coordinates": [
+          10.317730639416554,
+          50.433238577366126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.150714155176424,
+          50.2942515760011
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09673",
+        "name": "Niederlauer",
+        "population": 1640,
+        "area": 9.07,
+        "centroid_coordinates": [
+          10.150714155176424,
+          50.2942515760011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.193151514765159,
+          50.48895119560843
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09673",
+        "name": "Nordheim v.d.Rhön",
+        "population": 1064,
+        "area": 16.54,
+        "centroid_coordinates": [
+          10.193151514765159,
+          50.48895119560843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.077632739262459,
+          50.438352877236596
+        ]
+      },
+      "properties": {
+        "id": "149",
+        "land-id": "09673",
+        "name": "Oberelsbach",
+        "population": 2657,
+        "area": 67.64,
+        "centroid_coordinates": [
+          10.077632739262459,
+          50.438352877236596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2796448253682,
+          50.40022217969767
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09673",
+        "name": "Oberstreu",
+        "population": 1491,
+        "area": 22.52,
+        "centroid_coordinates": [
+          10.2796448253682,
+          50.40022217969767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.195682712532978,
+          50.455532915932835
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09673",
+        "name": "Ostheim v.d.Rhön",
+        "population": 3345,
+        "area": 40.88,
+        "centroid_coordinates": [
+          10.195682712532978,
+          50.455532915932835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.277736655786175,
+          50.31766750187613
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "land-id": "09673",
+        "name": "Rödelmaier",
+        "population": 957,
+        "area": 6.35,
+        "centroid_coordinates": [
+          10.277736655786175,
+          50.31766750187613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.367479365386593,
+          50.319273165826424
+        ]
+      },
+      "properties": {
+        "id": "160",
+        "land-id": "09673",
+        "name": "Saal a.d.Saale",
+        "population": 1562,
+        "area": 21.54,
+        "centroid_coordinates": [
+          10.367479365386593,
+          50.319273165826424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.208718015002288,
+          50.30097873811557
+        ]
+      },
+      "properties": {
+        "id": "161",
+        "land-id": "09673",
+        "name": "Salz",
+        "population": 2293,
+        "area": 8.62,
+        "centroid_coordinates": [
+          10.208718015002288,
+          50.30097873811557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.990160961766746,
+          50.34336241057349
+        ]
+      },
+      "properties": {
+        "id": "162",
+        "land-id": "09673",
+        "name": "Sandberg",
+        "population": 2320,
+        "area": 27.88,
+        "centroid_coordinates": [
+          9.990160961766746,
+          50.34336241057349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.106777174649281,
+          50.37322625710586
+        ]
+      },
+      "properties": {
+        "id": "163",
+        "land-id": "09673",
+        "name": "Schönau a.d.Brend",
+        "population": 1193,
+        "area": 15.63,
+        "centroid_coordinates": [
+          10.106777174649281,
+          50.37322625710586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.146904851690591,
+          50.474085646922624
+        ]
+      },
+      "properties": {
+        "id": "167",
+        "land-id": "09673",
+        "name": "Sondheim v.d.Rhön",
+        "population": 924,
+        "area": 18.59,
+        "centroid_coordinates": [
+          10.146904851690591,
+          50.474085646922624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.274678753230107,
+          50.46308664012321
+        ]
+      },
+      "properties": {
+        "id": "170",
+        "land-id": "09673",
+        "name": "Stockheim",
+        "population": 994,
+        "area": 19.81,
+        "centroid_coordinates": [
+          10.274678753230107,
+          50.46308664012321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.243717634980776,
+          50.28195296141886
+        ]
+      },
+      "properties": {
+        "id": "171",
+        "land-id": "09673",
+        "name": "Strahlungen",
+        "population": 977,
+        "area": 13.46,
+        "centroid_coordinates": [
+          10.243717634980776,
+          50.28195296141886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.56562744961512,
+          50.24405269080627
+        ]
+      },
+      "properties": {
+        "id": "172",
+        "land-id": "09673",
+        "name": "Sulzdorf a.d.Lederhecke",
+        "population": 1151,
+        "area": 36.3,
+        "centroid_coordinates": [
+          10.56562744961512,
+          50.24405269080627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.407010537460847,
+          50.254238031879275
+        ]
+      },
+      "properties": {
+        "id": "173",
+        "land-id": "09673",
+        "name": "Sulzfeld",
+        "population": 1737,
+        "area": 22.48,
+        "centroid_coordinates": [
+          10.407010537460847,
+          50.254238031879275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.570628140482624,
+          50.3038795115486
+        ]
+      },
+      "properties": {
+        "id": "174",
+        "land-id": "09673",
+        "name": "Trappstadt",
+        "population": 892,
+        "area": 25.82,
+        "centroid_coordinates": [
+          10.570628140482624,
+          50.3038795115486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.265274121165108,
+          50.37598249225658
+        ]
+      },
+      "properties": {
+        "id": "175",
+        "land-id": "09673",
+        "name": "Unsleben",
+        "population": 952,
+        "area": 9.03,
+        "centroid_coordinates": [
+          10.265274121165108,
+          50.37598249225658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.255043252526669,
+          50.501387745214664
+        ]
+      },
+      "properties": {
+        "id": "182",
+        "land-id": "09673",
+        "name": "Willmars",
+        "population": 567,
+        "area": 12.26,
+        "centroid_coordinates": [
+          10.255043252526669,
+          50.501387745214664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.21403167360605,
+          50.36414526818537
+        ]
+      },
+      "properties": {
+        "id": "183",
+        "land-id": "09673",
+        "name": "Wollbach",
+        "population": 1428,
+        "area": 7.59,
+        "centroid_coordinates": [
+          10.21403167360605,
+          50.36414526818537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.325023800305921,
+          50.32666679633153
+        ]
+      },
+      "properties": {
+        "id": "184",
+        "land-id": "09673",
+        "name": "Wülfershausen a.d.Saale",
+        "population": 1547,
+        "area": 18.08,
+        "centroid_coordinates": [
+          10.325023800305921,
+          50.32666679633153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.159434930756241,
+          50.27619187937459
+        ]
+      },
+      "properties": {
+        "id": "186",
+        "land-id": "09673",
+        "name": "Burglauer",
+        "population": 1728,
+        "area": 13.88,
+        "centroid_coordinates": [
+          10.159434930756241,
+          50.27619187937459
+        ]
+      }
+    }
+  ]
+}

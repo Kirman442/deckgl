@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.287537730404928,
+          49.41898145788755
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09376",
+        "name": "Altendorf",
+        "population": 857,
+        "area": 23.21,
+        "centroid_coordinates": [
+          12.287537730404928,
+          49.41898145788755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.287101302049216,
+          49.295550747932815
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09376",
+        "name": "Bodenwöhr",
+        "population": 4197,
+        "area": 54.31,
+        "centroid_coordinates": [
+          12.287101302049216,
+          49.295550747932815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.306565572339586,
+          49.24740596101002
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09376",
+        "name": "Bruck i.d.OPf.",
+        "population": 4156,
+        "area": 52.47,
+        "centroid_coordinates": [
+          12.306565572339586,
+          49.24740596101002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.003626927500635,
+          49.22789048769531
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09376",
+        "name": "Burglengenfeld",
+        "population": 14348,
+        "area": 93.28,
+        "centroid_coordinates": [
+          12.003626927500635,
+          49.22789048769531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.410794158879263,
+          49.40660776125623
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09376",
+        "name": "Dieterskirchen",
+        "population": 995,
+        "area": 24.11,
+        "centroid_coordinates": [
+          12.410794158879263,
+          49.40660776125623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.03961534143958,
+          49.40647200443509
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "land-id": "09376",
+        "name": "Fensterbach",
+        "population": 2392,
+        "area": 26.97,
+        "centroid_coordinates": [
+          12.03961534143958,
+          49.40647200443509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.317071788552287,
+          49.501226124436485
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09376",
+        "name": "Gleiritsch",
+        "population": 629,
+        "area": 10.92,
+        "centroid_coordinates": [
+          12.317071788552287,
+          49.501226124436485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.285280960298795,
+          49.45897084603399
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09376",
+        "name": "Guteneck",
+        "population": 813,
+        "area": 35.04,
+        "centroid_coordinates": [
+          12.285280960298795,
+          49.45897084603399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.100932997992153,
+          49.182469411804824
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09376",
+        "name": "Maxhütte-Haidhof",
+        "population": 12044,
+        "area": 34.66,
+        "centroid_coordinates": [
+          12.100932997992153,
+          49.182469411804824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.17780624587582,
+          49.45432433294716
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09376",
+        "name": "Nabburg",
+        "population": 6239,
+        "area": 62.39,
+        "centroid_coordinates": [
+          12.17780624587582,
+          49.45432433294716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.41762538537455,
+          49.290297431497855
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09376",
+        "name": "Neukirchen-Balbini",
+        "population": 1135,
+        "area": 48.22,
+        "centroid_coordinates": [
+          12.41762538537455,
+          49.290297431497855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.360375512151025,
+          49.34492940579094
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09376",
+        "name": "Neunburg vorm Wald",
+        "population": 7936,
+        "area": 110.31,
+        "centroid_coordinates": [
+          12.360375512151025,
+          49.34492940579094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.360862570932571,
+          49.44487483770006
+        ]
+      },
+      "properties": {
+        "id": "148",
+        "land-id": "09376",
+        "name": "Niedermurach",
+        "population": 1261,
+        "area": 30.01,
+        "centroid_coordinates": [
+          12.360862570932571,
+          49.44487483770006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.244890509809139,
+          49.20588511227827
+        ]
+      },
+      "properties": {
+        "id": "149",
+        "land-id": "09376",
+        "name": "Nittenau",
+        "population": 9157,
+        "area": 98.72,
+        "centroid_coordinates": [
+          12.244890509809139,
+          49.20588511227827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.158990536067236,
+          49.54108256815533
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "land-id": "09376",
+        "name": "Wernberg-Köblitz",
+        "population": 5484,
+        "area": 66.22,
+        "centroid_coordinates": [
+          12.158990536067236,
+          49.54108256815533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.448520510803426,
+          49.484557171446504
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09376",
+        "name": "Oberviechtach",
+        "population": 4899,
+        "area": 62.37,
+        "centroid_coordinates": [
+          12.448520510803426,
+          49.484557171446504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.203688352828289,
+          49.50086474271873
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09376",
+        "name": "Pfreimd",
+        "population": 4942,
+        "area": 51.45,
+        "centroid_coordinates": [
+          12.203688352828289,
+          49.50086474271873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.069556216666387,
+          49.44922107930024
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "land-id": "09376",
+        "name": "Schmidgaden",
+        "population": 3054,
+        "area": 41.3,
+        "centroid_coordinates": [
+          12.069556216666387,
+          49.44922107930024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54359060693354,
+          49.51295953741088
+        ]
+      },
+      "properties": {
+        "id": "160",
+        "land-id": "09376",
+        "name": "Schönsee",
+        "population": 2279,
+        "area": 50.31,
+        "centroid_coordinates": [
+          12.54359060693354,
+          49.51295953741088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.088473725017005,
+          49.317654386340315
+        ]
+      },
+      "properties": {
+        "id": "161",
+        "land-id": "09376",
+        "name": "Schwandorf",
+        "population": 29882,
+        "area": 123.88,
+        "centroid_coordinates": [
+          12.088473725017005,
+          49.317654386340315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.212278862431136,
+          49.397450001118756
+        ]
+      },
+      "properties": {
+        "id": "162",
+        "land-id": "09376",
+        "name": "Schwarzach b.Nabburg",
+        "population": 1342,
+        "area": 27.34,
+        "centroid_coordinates": [
+          12.212278862431136,
+          49.397450001118756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.163801596749883,
+          49.3760207304948
+        ]
+      },
+      "properties": {
+        "id": "163",
+        "land-id": "09376",
+        "name": "Schwarzenfeld",
+        "population": 6281,
+        "area": 38.22,
+        "centroid_coordinates": [
+          12.163801596749883,
+          49.3760207304948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.329637762654464,
+          49.38578700762102
+        ]
+      },
+      "properties": {
+        "id": "164",
+        "land-id": "09376",
+        "name": "Schwarzhofen",
+        "population": 1367,
+        "area": 35.88,
+        "centroid_coordinates": [
+          12.329637762654464,
+          49.38578700762102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.625012733354682,
+          49.503091349730575
+        ]
+      },
+      "properties": {
+        "id": "167",
+        "land-id": "09376",
+        "name": "Stadlern",
+        "population": 528,
+        "area": 10.6,
+        "centroid_coordinates": [
+          12.625012733354682,
+          49.503091349730575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.174439300237932,
+          49.272655049667975
+        ]
+      },
+      "properties": {
+        "id": "168",
+        "land-id": "09376",
+        "name": "Steinberg am See",
+        "population": 1941,
+        "area": 20.24,
+        "centroid_coordinates": [
+          12.174439300237932,
+          49.272655049667975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13519339142099,
+          49.420915902756256
+        ]
+      },
+      "properties": {
+        "id": "169",
+        "land-id": "09376",
+        "name": "Stulln",
+        "population": 1693,
+        "area": 15.52,
+        "centroid_coordinates": [
+          12.13519339142099,
+          49.420915902756256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.099358040885347,
+          49.234537297120255
+        ]
+      },
+      "properties": {
+        "id": "170",
+        "land-id": "09376",
+        "name": "Teublitz",
+        "population": 8043,
+        "area": 38.27,
+        "centroid_coordinates": [
+          12.099358040885347,
+          49.234537297120255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.389529340479681,
+          49.50031833019972
+        ]
+      },
+      "properties": {
+        "id": "171",
+        "land-id": "09376",
+        "name": "Teunz",
+        "population": 1835,
+        "area": 30.65,
+        "centroid_coordinates": [
+          12.389529340479681,
+          49.50031833019972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.460066364503268,
+          49.38991295167005
+        ]
+      },
+      "properties": {
+        "id": "172",
+        "land-id": "09376",
+        "name": "Thanstein",
+        "population": 977,
+        "area": 27.83,
+        "centroid_coordinates": [
+          12.460066364503268,
+          49.38991295167005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.260896354299096,
+          49.52877659529397
+        ]
+      },
+      "properties": {
+        "id": "173",
+        "land-id": "09376",
+        "name": "Trausnitz",
+        "population": 902,
+        "area": 17.6,
+        "centroid_coordinates": [
+          12.260896354299096,
+          49.52877659529397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.191262125610116,
+          49.31454473574111
+        ]
+      },
+      "properties": {
+        "id": "175",
+        "land-id": "09376",
+        "name": "Wackersdorf",
+        "population": 5248,
+        "area": 33.63,
+        "centroid_coordinates": [
+          12.191262125610116,
+          49.31454473574111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563972203645488,
+          49.48134817272104
+        ]
+      },
+      "properties": {
+        "id": "176",
+        "land-id": "09376",
+        "name": "Weiding",
+        "population": 467,
+        "area": 22.41,
+        "centroid_coordinates": [
+          12.563972203645488,
+          49.48134817272104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.504576598739735,
+          49.436287984441684
+        ]
+      },
+      "properties": {
+        "id": "178",
+        "land-id": "09376",
+        "name": "Winklarn",
+        "population": 1359,
+        "area": 33.74,
+        "centroid_coordinates": [
+          12.504576598739735,
+          49.436287984441684
+        ]
+      }
+    }
+  ]
+}

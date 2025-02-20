@@ -1,0 +1,740 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.282316014856573,
+          48.536348904723965
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09274",
+        "name": "Adlkofen",
+        "population": 4468,
+        "area": 47.86,
+        "centroid_coordinates": [
+          12.282316014856573,
+          48.536348904723965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.465180426850457,
+          48.52600678912727
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09274",
+        "name": "Aham",
+        "population": 1943,
+        "area": 37.98,
+        "centroid_coordinates": [
+          12.465180426850457,
+          48.52600678912727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.083849813908898,
+          48.561765421941324
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09274",
+        "name": "Altdorf",
+        "population": 11333,
+        "area": 22.97,
+        "centroid_coordinates": [
+          12.083849813908898,
+          48.561765421941324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.189625492770935,
+          48.445977249768404
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "land-id": "09274",
+        "name": "Altfraunhofen",
+        "population": 2536,
+        "area": 24.23,
+        "centroid_coordinates": [
+          12.189625492770935,
+          48.445977249768404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.197333218826696,
+          48.41436903421506
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09274",
+        "name": "Baierbach",
+        "population": 740,
+        "area": 16.78,
+        "centroid_coordinates": [
+          12.197333218826696,
+          48.41436903421506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.299275891273139,
+          48.71019644993887
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09274",
+        "name": "Bayerbach b.Ergoldsbach",
+        "population": 1975,
+        "area": 25.41,
+        "centroid_coordinates": [
+          12.299275891273139,
+          48.71019644993887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.411518404387746,
+          48.407527095861646
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09274",
+        "name": "Bodenkirchen",
+        "population": 5254,
+        "area": 62.06,
+        "centroid_coordinates": [
+          12.411518404387746,
+          48.407527095861646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.046148038872374,
+          48.44257629652013
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09274",
+        "name": "Buch a.Erlbach",
+        "population": 3921,
+        "area": 26.71,
+        "centroid_coordinates": [
+          12.046148038872374,
+          48.44257629652013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.049293324556483,
+          48.486435655995685
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09274",
+        "name": "Eching",
+        "population": 4245,
+        "area": 30.17,
+        "centroid_coordinates": [
+          12.049293324556483,
+          48.486435655995685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.134408121785457,
+          48.58998082204761
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09274",
+        "name": "Ergolding",
+        "population": 13287,
+        "area": 37.21,
+        "centroid_coordinates": [
+          12.134408121785457,
+          48.58998082204761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.214158158287523,
+          48.69114351354284
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09274",
+        "name": "Ergoldsbach",
+        "population": 8496,
+        "area": 57.01,
+        "centroid_coordinates": [
+          12.214158158287523,
+          48.69114351354284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.217082819051189,
+          48.621696811501316
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "land-id": "09274",
+        "name": "Essenbach",
+        "population": 11973,
+        "area": 83.52,
+        "centroid_coordinates": [
+          12.217082819051189,
+          48.621696811501316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.019777000974104,
+          48.58811761623574
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09274",
+        "name": "Furth",
+        "population": 3609,
+        "area": 20.99,
+        "centroid_coordinates": [
+          12.019777000974104,
+          48.58811761623574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.267062755336454,
+          48.469400737072846
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09274",
+        "name": "Geisenhausen",
+        "population": 7280,
+        "area": 62.44,
+        "centroid_coordinates": [
+          12.267062755336454,
+          48.469400737072846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.396792153903638,
+          48.497767172969844
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09274",
+        "name": "Gerzen",
+        "population": 1879,
+        "area": 16.99,
+        "centroid_coordinates": [
+          12.396792153903638,
+          48.497767172969844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.097352348583295,
+          48.65992130001442
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09274",
+        "name": "Hohenthann",
+        "population": 4240,
+        "area": 68.29,
+        "centroid_coordinates": [
+          12.097352348583295,
+          48.65992130001442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.36730808232099,
+          48.53475143145824
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09274",
+        "name": "Kröning",
+        "population": 2051,
+        "area": 39.64,
+        "centroid_coordinates": [
+          12.36730808232099,
+          48.53475143145824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.190910234459412,
+          48.49864441505038
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09274",
+        "name": "Kumhausen",
+        "population": 5405,
+        "area": 37.08,
+        "centroid_coordinates": [
+          12.190910234459412,
+          48.49864441505038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.150743022866612,
+          48.735736219092374
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09274",
+        "name": "Neufahrn i.NB",
+        "population": 4303,
+        "area": 38.68,
+        "centroid_coordinates": [
+          12.150743022866612,
+          48.735736219092374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.223448899557814,
+          48.39288594269022
+        ]
+      },
+      "properties": {
+        "id": "154",
+        "land-id": "09274",
+        "name": "Neufraunhofen",
+        "population": 1068,
+        "area": 17.98,
+        "centroid_coordinates": [
+          12.223448899557814,
+          48.39288594269022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.320195447339822,
+          48.591810724741144
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "land-id": "09274",
+        "name": "Niederaichbach",
+        "population": 4222,
+        "area": 34.07,
+        "centroid_coordinates": [
+          12.320195447339822,
+          48.591810724741144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.935377045352373,
+          48.60127441943174
+        ]
+      },
+      "properties": {
+        "id": "165",
+        "land-id": "09274",
+        "name": "Obersüßbach",
+        "population": 1653,
+        "area": 23.61,
+        "centroid_coordinates": [
+          11.935377045352373,
+          48.60127441943174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.942710424163472,
+          48.66366940594434
+        ]
+      },
+      "properties": {
+        "id": "172",
+        "land-id": "09274",
+        "name": "Pfeffenhausen",
+        "population": 5454,
+        "area": 71.75,
+        "centroid_coordinates": [
+          11.942710424163472,
+          48.66366940594434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.311802222425134,
+          48.65755204164051
+        ]
+      },
+      "properties": {
+        "id": "174",
+        "land-id": "09274",
+        "name": "Postau",
+        "population": 1706,
+        "area": 34.81,
+        "centroid_coordinates": [
+          12.311802222425134,
+          48.65755204164051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.038482299717014,
+          48.716418851543544
+        ]
+      },
+      "properties": {
+        "id": "176",
+        "land-id": "09274",
+        "name": "Rottenburg a.d.Laaber",
+        "population": 8495,
+        "area": 90.19,
+        "centroid_coordinates": [
+          12.038482299717014,
+          48.716418851543544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.43738521991638,
+          48.47568254003271
+        ]
+      },
+      "properties": {
+        "id": "179",
+        "land-id": "09274",
+        "name": "Schalkham",
+        "population": 906,
+        "area": 22.74,
+        "centroid_coordinates": [
+          12.43738521991638,
+          48.47568254003271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.112370987773145,
+          48.49061131434905
+        ]
+      },
+      "properties": {
+        "id": "182",
+        "land-id": "09274",
+        "name": "Tiefenbach",
+        "population": 3939,
+        "area": 24.71,
+        "centroid_coordinates": [
+          12.112370987773145,
+          48.49061131434905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.268701631322303,
+          48.36910674356026
+        ]
+      },
+      "properties": {
+        "id": "183",
+        "land-id": "09274",
+        "name": "Velden",
+        "population": 6432,
+        "area": 49.39,
+        "centroid_coordinates": [
+          12.268701631322303,
+          48.36910674356026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.345516805131279,
+          48.44072896942304
+        ]
+      },
+      "properties": {
+        "id": "184",
+        "land-id": "09274",
+        "name": "Vilsbiburg",
+        "population": 12102,
+        "area": 68.84,
+        "centroid_coordinates": [
+          12.345516805131279,
+          48.44072896942304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.120140980748394,
+          48.448127546598585
+        ]
+      },
+      "properties": {
+        "id": "185",
+        "land-id": "09274",
+        "name": "Vilsheim",
+        "population": 2698,
+        "area": 21.73,
+        "centroid_coordinates": [
+          12.120140980748394,
+          48.448127546598585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.020819252790997,
+          48.61919239101735
+        ]
+      },
+      "properties": {
+        "id": "187",
+        "land-id": "09274",
+        "name": "Weihmichl",
+        "population": 2384,
+        "area": 32.13,
+        "centroid_coordinates": [
+          12.020819252790997,
+          48.61919239101735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.364657402961784,
+          48.666202080626675
+        ]
+      },
+      "properties": {
+        "id": "188",
+        "land-id": "09274",
+        "name": "Weng",
+        "population": 1378,
+        "area": 15.63,
+        "centroid_coordinates": [
+          12.364657402961784,
+          48.666202080626675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.341401348468192,
+          48.62670654872703
+        ]
+      },
+      "properties": {
+        "id": "191",
+        "land-id": "09274",
+        "name": "Wörth a.d.Isar",
+        "population": 3183,
+        "area": 4.84,
+        "centroid_coordinates": [
+          12.341401348468192,
+          48.62670654872703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.325736473575839,
+          48.35250928401473
+        ]
+      },
+      "properties": {
+        "id": "193",
+        "land-id": "09274",
+        "name": "Wurmsham",
+        "population": 1374,
+        "area": 28.15,
+        "centroid_coordinates": [
+          12.325736473575839,
+          48.35250928401473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.004240876966312,
+          48.53936128111568
+        ]
+      },
+      "properties": {
+        "id": "194",
+        "land-id": "09274",
+        "name": "Bruckberg",
+        "population": 5699,
+        "area": 51.13,
+        "centroid_coordinates": [
+          12.004240876966312,
+          48.53936128111568
+        ]
+      }
+    }
+  ]
+}

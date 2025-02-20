@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.303563129006907,
+          48.893233372202054
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09272",
+        "name": "Eppenschlag",
+        "population": 945,
+        "area": 17.04,
+        "centroid_coordinates": [
+          13.303563129006907,
+          48.893233372202054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.551146462194243,
+          48.820336251505076
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09272",
+        "name": "Freyung",
+        "population": 7099,
+        "area": 48.66,
+        "centroid_coordinates": [
+          13.551146462194243,
+          48.820336251505076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.453383389330567,
+          48.73659707629171
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09272",
+        "name": "Fürsteneck",
+        "population": 827,
+        "area": 10.42,
+        "centroid_coordinates": [
+          13.453383389330567,
+          48.73659707629171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.400495140940055,
+          48.84662172283455
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09272",
+        "name": "Grafenau",
+        "population": 8136,
+        "area": 63.64,
+        "centroid_coordinates": [
+          13.400495140940055,
+          48.84662172283455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.661488028124111,
+          48.795058965475654
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09272",
+        "name": "Grainet",
+        "population": 2408,
+        "area": 36.15,
+        "centroid_coordinates": [
+          13.661488028124111,
+          48.795058965475654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.742669743122583,
+          48.837294655781626
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09272",
+        "name": "Haidmühle",
+        "population": 1370,
+        "area": 21.07,
+        "centroid_coordinates": [
+          13.742669743122583,
+          48.837294655781626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61330801139298,
+          48.82915847094265
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09272",
+        "name": "Hinterschmiding",
+        "population": 2458,
+        "area": 20.95,
+        "centroid_coordinates": [
+          13.61330801139298,
+          48.82915847094265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.514151213225153,
+          48.858152890821884
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09272",
+        "name": "Hohenau",
+        "population": 3207,
+        "area": 43.34,
+        "centroid_coordinates": [
+          13.514151213225153,
+          48.858152890821884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2726633047691,
+          48.84843514128622
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "land-id": "09272",
+        "name": "Innernzell",
+        "population": 1513,
+        "area": 22.07,
+        "centroid_coordinates": [
+          13.2726633047691,
+          48.84843514128622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.687520399431707,
+          48.72798742706167
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09272",
+        "name": "Jandelsbrunn",
+        "population": 3325,
+        "area": 42.46,
+        "centroid_coordinates": [
+          13.687520399431707,
+          48.72798742706167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.588189028931668,
+          48.906099670754465
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09272",
+        "name": "Mauth",
+        "population": 2045,
+        "area": 28.67,
+        "centroid_coordinates": [
+          13.588189028931668,
+          48.906099670754465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758194888384892,
+          48.74907457050253
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09272",
+        "name": "Neureichenau",
+        "population": 4203,
+        "area": 46.28,
+        "centroid_coordinates": [
+          13.758194888384892,
+          48.74907457050253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.441107696535415,
+          48.777178623964936
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09272",
+        "name": "Perlesreut",
+        "population": 2869,
+        "area": 29.67,
+        "centroid_coordinates": [
+          13.441107696535415,
+          48.777178623964936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.665678787717823,
+          48.88033319873146
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09272",
+        "name": "Philippsreut",
+        "population": 620,
+        "area": 10.22,
+        "centroid_coordinates": [
+          13.665678787717823,
+          48.88033319873146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45948765319997,
+          48.81126783435157
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "land-id": "09272",
+        "name": "Ringelai",
+        "population": 1895,
+        "area": 16.33,
+        "centroid_coordinates": [
+          13.45948765319997,
+          48.81126783435157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.516638447169266,
+          48.75332668481159
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09272",
+        "name": "Röhrnbach",
+        "population": 4296,
+        "area": 40.59,
+        "centroid_coordinates": [
+          13.516638447169266,
+          48.75332668481159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.355965523737993,
+          48.777658887729125
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "land-id": "09272",
+        "name": "Saldenburg",
+        "population": 2000,
+        "area": 28.0,
+        "centroid_coordinates": [
+          13.355965523737993,
+          48.777658887729125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409410135368015,
+          48.925846237886816
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09272",
+        "name": "Sankt Oswald-Riedlhütte",
+        "population": 2956,
+        "area": 40.34,
+        "centroid_coordinates": [
+          13.409410135368015,
+          48.925846237886816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2232006472617,
+          48.83546795112855
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09272",
+        "name": "Schöfweg",
+        "population": 1282,
+        "area": 19.07,
+        "centroid_coordinates": [
+          13.2232006472617,
+          48.83546795112855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.481911525870721,
+          48.90116441531493
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09272",
+        "name": "Neuschönau",
+        "population": 2170,
+        "area": 27.5,
+        "centroid_coordinates": [
+          13.481911525870721,
+          48.90116441531493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.331663025765831,
+          48.83692733138594
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09272",
+        "name": "Schönberg",
+        "population": 3916,
+        "area": 32.76,
+        "centroid_coordinates": [
+          13.331663025765831,
+          48.83692733138594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34234504653903,
+          48.929518445969
+        ]
+      },
+      "properties": {
+        "id": "149",
+        "land-id": "09272",
+        "name": "Spiegelau",
+        "population": 3876,
+        "area": 47.12,
+        "centroid_coordinates": [
+          13.34234504653903,
+          48.929518445969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.300328632448023,
+          48.76930242404798
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "land-id": "09272",
+        "name": "Thurmansbang",
+        "population": 2601,
+        "area": 32.95,
+        "centroid_coordinates": [
+          13.300328632448023,
+          48.76930242404798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.603877661180528,
+          48.73503243212944
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09272",
+        "name": "Waldkirchen",
+        "population": 11331,
+        "area": 79.88,
+        "centroid_coordinates": [
+          13.603877661180528,
+          48.73503243212944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2558747661473,
+          48.78789927360422
+        ]
+      },
+      "properties": {
+        "id": "152",
+        "land-id": "09272",
+        "name": "Zenting",
+        "population": 1154,
+        "area": 22.16,
+        "centroid_coordinates": [
+          13.2558747661473,
+          48.78789927360422
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.910759092578827,
+          48.97371858270363
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09276",
+        "name": "Achslach",
+        "population": 975,
+        "area": 30.11,
+        "centroid_coordinates": [
+          12.910759092578827,
+          48.97371858270363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.988664968250477,
+          49.13630098001615
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09276",
+        "name": "Arnbruck",
+        "population": 2048,
+        "area": 37.82,
+        "centroid_coordinates": [
+          12.988664968250477,
+          49.13630098001615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.184233171022246,
+          49.105238651729465
+        ]
+      },
+      "properties": {
+        "id": "115",
+        "land-id": "09276",
+        "name": "Bayerisch Eisenstein",
+        "population": 968,
+        "area": 47.16,
+        "centroid_coordinates": [
+          13.184233171022246,
+          49.105238651729465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.074254648112008,
+          48.915368873527356
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09276",
+        "name": "Bischofsmais",
+        "population": 3346,
+        "area": 46.26,
+        "centroid_coordinates": [
+          13.074254648112008,
+          48.915368873527356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.10664565199156,
+          49.07675811907564
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09276",
+        "name": "Bodenmais",
+        "population": 3656,
+        "area": 45.26,
+        "centroid_coordinates": [
+          13.10664565199156,
+          49.07675811907564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.056191645369998,
+          49.04268512882819
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09276",
+        "name": "Böbrach",
+        "population": 1572,
+        "area": 27.47,
+        "centroid_coordinates": [
+          13.056191645369998,
+          49.04268512882819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.034344861855429,
+          49.10278548250244
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09276",
+        "name": "Drachselsried",
+        "population": 2385,
+        "area": 41.68,
+        "centroid_coordinates": [
+          13.034344861855429,
+          49.10278548250244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.323724698962687,
+          48.987020785431426
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09276",
+        "name": "Frauenau",
+        "population": 2647,
+        "area": 60.02,
+        "centroid_coordinates": [
+          13.323724698962687,
+          48.987020785431426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.974559419496806,
+          49.04679206168418
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09276",
+        "name": "Geiersthal",
+        "population": 2212,
+        "area": 22.41,
+        "centroid_coordinates": [
+          12.974559419496806,
+          49.04679206168418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.955145232470594,
+          48.95402214745353
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "land-id": "09276",
+        "name": "Gotteszell",
+        "population": 1148,
+        "area": 9.24,
+        "centroid_coordinates": [
+          12.955145232470594,
+          48.95402214745353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18560823538453,
+          48.89412803046139
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09276",
+        "name": "Kirchberg i.Wald",
+        "population": 4394,
+        "area": 48.84,
+        "centroid_coordinates": [
+          13.18560823538453,
+          48.89412803046139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.259556606190664,
+          48.912701693948755
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09276",
+        "name": "Kirchdorf i.Wald",
+        "population": 2048,
+        "area": 30.56,
+        "centroid_coordinates": [
+          13.259556606190664,
+          48.912701693948755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.876722963446221,
+          49.034123859589585
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "land-id": "09276",
+        "name": "Kollnburg",
+        "population": 2719,
+        "area": 59.48,
+        "centroid_coordinates": [
+          12.876722963446221,
+          49.034123859589585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.152534137171287,
+          49.02679201142028
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09276",
+        "name": "Langdorf",
+        "population": 1842,
+        "area": 34.39,
+        "centroid_coordinates": [
+          13.152534137171287,
+          49.02679201142028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.305249189446558,
+          49.058251451046125
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "land-id": "09276",
+        "name": "Lindberg",
+        "population": 2269,
+        "area": 108.72,
+        "centroid_coordinates": [
+          13.305249189446558,
+          49.058251451046125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.968082792359102,
+          49.00319926753187
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09276",
+        "name": "Patersdorf",
+        "population": 1721,
+        "area": 17.03,
+        "centroid_coordinates": [
+          12.968082792359102,
+          49.00319926753187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.821586392165328,
+          49.10212577416561
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09276",
+        "name": "Prackenbach",
+        "population": 2749,
+        "area": 40.03,
+        "centroid_coordinates": [
+          12.821586392165328,
+          49.10212577416561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.122323725313274,
+          48.96993755870335
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09276",
+        "name": "Regen",
+        "population": 10913,
+        "area": 65.1,
+        "centroid_coordinates": [
+          13.122323725313274,
+          48.96993755870335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2104493124871,
+          48.95123039590277
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09276",
+        "name": "Rinchnach",
+        "population": 3087,
+        "area": 40.29,
+        "centroid_coordinates": [
+          13.2104493124871,
+          48.95123039590277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.978567657014544,
+          48.981413094344504
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "land-id": "09276",
+        "name": "Ruhmannsfelden",
+        "population": 1989,
+        "area": 5.83,
+        "centroid_coordinates": [
+          12.978567657014544,
+          48.981413094344504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.042302398458029,
+          49.01537261028007
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09276",
+        "name": "Teisnach",
+        "population": 2981,
+        "area": 25.85,
+        "centroid_coordinates": [
+          13.042302398458029,
+          49.01537261028007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.91556476383787,
+          49.090965804053745
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09276",
+        "name": "Viechtach",
+        "population": 8374,
+        "area": 62.42,
+        "centroid_coordinates": [
+          12.91556476383787,
+          49.090965804053745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.019692979026287,
+          48.97279094766853
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09276",
+        "name": "Zachenberg",
+        "population": 2070,
+        "area": 27.27,
+        "centroid_coordinates": [
+          13.019692979026287,
+          48.97279094766853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.217177081207128,
+          49.0250839891269
+        ]
+      },
+      "properties": {
+        "id": "148",
+        "land-id": "09276",
+        "name": "Zwiesel",
+        "population": 9083,
+        "area": 41.13,
+        "centroid_coordinates": [
+          13.217177081207128,
+          49.0250839891269
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.821610697183903,
+          48.55545665362768
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09277",
+        "name": "Arnstorf",
+        "population": 6516,
+        "area": 80.4,
+        "centroid_coordinates": [
+          12.821610697183903,
+          48.55545665362768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12654702555098,
+          48.41338759050578
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09277",
+        "name": "Bayerbach",
+        "population": 1664,
+        "area": 19.38,
+        "centroid_coordinates": [
+          13.12654702555098,
+          48.41338759050578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.06775941132165,
+          48.44594422126138
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09277",
+        "name": "Bad Birnbach",
+        "population": 5813,
+        "area": 68.86,
+        "centroid_coordinates": [
+          13.06775941132165,
+          48.44594422126138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.950887088051003,
+          48.49857621280053
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "land-id": "09277",
+        "name": "Dietersburg",
+        "population": 3010,
+        "area": 55.08,
+        "centroid_coordinates": [
+          12.950887088051003,
+          48.49857621280053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.750732826769953,
+          48.40617367791098
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09277",
+        "name": "Eggenfelden",
+        "population": 14212,
+        "area": 44.34,
+        "centroid_coordinates": [
+          12.750732826769953,
+          48.40617367791098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.057759567063343,
+          48.52064948938728
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09277",
+        "name": "Egglham",
+        "population": 2232,
+        "area": 36.77,
+        "centroid_coordinates": [
+          13.057759567063343,
+          48.52064948938728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12313622130663,
+          48.31381126946916
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09277",
+        "name": "Ering",
+        "population": 1852,
+        "area": 39.57,
+        "centroid_coordinates": [
+          13.12313622130663,
+          48.31381126946916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.725873898813989,
+          48.47103689065152
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09277",
+        "name": "Falkenberg",
+        "population": 3915,
+        "area": 66.5,
+        "centroid_coordinates": [
+          12.725873898813989,
+          48.47103689065152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.561482124668931,
+          48.46137644791938
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09277",
+        "name": "Gangkofen",
+        "population": 6176,
+        "area": 108.76,
+        "centroid_coordinates": [
+          12.561482124668931,
+          48.46137644791938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.651900065515592,
+          48.35195298012753
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09277",
+        "name": "Geratskirchen",
+        "population": 862,
+        "area": 12.91,
+        "centroid_coordinates": [
+          12.651900065515592,
+          48.35195298012753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.819399374775532,
+          48.42706072204271
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09277",
+        "name": "Hebertsfelden",
+        "population": 3631,
+        "area": 49.82,
+        "centroid_coordinates": [
+          12.819399374775532,
+          48.42706072204271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.961992337025773,
+          48.544149728596125
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09277",
+        "name": "Johanniskirchen",
+        "population": 2340,
+        "area": 40.5,
+        "centroid_coordinates": [
+          12.961992337025773,
+          48.544149728596125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.933403297082549,
+          48.253303731007264
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09277",
+        "name": "Julbach",
+        "population": 2303,
+        "area": 11.2,
+        "centroid_coordinates": [
+          12.933403297082549,
+          48.253303731007264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.957694504269012,
+          48.23917194461667
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "land-id": "09277",
+        "name": "Kirchdorf a.Inn",
+        "population": 5335,
+        "area": 31.75,
+        "centroid_coordinates": [
+          12.957694504269012,
+          48.23917194461667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.739728583224531,
+          48.52609067125203
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09277",
+        "name": "Malgersdorf",
+        "population": 1215,
+        "area": 11.46,
+        "centroid_coordinates": [
+          12.739728583224531,
+          48.52609067125203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.617490275110079,
+          48.40054407170607
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09277",
+        "name": "Massing",
+        "population": 4091,
+        "area": 36.14,
+        "centroid_coordinates": [
+          12.617490275110079,
+          48.40054407170607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.729112144343583,
+          48.34731971525456
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09277",
+        "name": "Mitterskirchen",
+        "population": 2181,
+        "area": 24.71,
+        "centroid_coordinates": [
+          12.729112144343583,
+          48.34731971525456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.95762043338667,
+          48.44143862079074
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09277",
+        "name": "Pfarrkirchen",
+        "population": 12788,
+        "area": 52.31,
+        "centroid_coordinates": [
+          12.95762043338667,
+          48.44143862079074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.88927735829326,
+          48.427647015636616
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09277",
+        "name": "Postmünster",
+        "population": 2426,
+        "area": 43.41,
+        "centroid_coordinates": [
+          12.88927735829326,
+          48.427647015636616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.930443951588593,
+          48.30302463724241
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "land-id": "09277",
+        "name": "Reut",
+        "population": 1634,
+        "area": 30.72,
+        "centroid_coordinates": [
+          12.930443951588593,
+          48.30302463724241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.662852032727166,
+          48.467561453970795
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09277",
+        "name": "Rimbach",
+        "population": 939,
+        "area": 22.95,
+        "centroid_coordinates": [
+          12.662852032727166,
+          48.467561453970795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.92833863496486,
+          48.581844579286454
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "land-id": "09277",
+        "name": "Roßbach",
+        "population": 2916,
+        "area": 48.09,
+        "centroid_coordinates": [
+          12.92833863496486,
+          48.581844579286454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.840234535048664,
+          48.49314270238744
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09277",
+        "name": "Schönau",
+        "population": 1863,
+        "area": 36.11,
+        "centroid_coordinates": [
+          12.840234535048664,
+          48.49314270238744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01559880387693,
+          48.28930780531964
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09277",
+        "name": "Simbach a.Inn",
+        "population": 10198,
+        "area": 47.28,
+        "centroid_coordinates": [
+          13.01559880387693,
+          48.28930780531964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.073347502568708,
+          48.31888314072628
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09277",
+        "name": "Stubenberg",
+        "population": 1428,
+        "area": 18.17,
+        "centroid_coordinates": [
+          13.073347502568708,
+          48.31888314072628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.895867071882456,
+          48.35103424766528
+        ]
+      },
+      "properties": {
+        "id": "148",
+        "land-id": "09277",
+        "name": "Tann",
+        "population": 3791,
+        "area": 37.45,
+        "centroid_coordinates": [
+          12.895867071882456,
+          48.35103424766528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.004453700144541,
+          48.388849377351285
+        ]
+      },
+      "properties": {
+        "id": "149",
+        "land-id": "09277",
+        "name": "Triftern",
+        "population": 5432,
+        "area": 62.27,
+        "centroid_coordinates": [
+          13.004453700144541,
+          48.388849377351285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.67411069668909,
+          48.38966518299312
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09277",
+        "name": "Unterdietfurt",
+        "population": 2237,
+        "area": 27.43,
+        "centroid_coordinates": [
+          12.67411069668909,
+          48.38966518299312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.011011460379507,
+          48.34197642929451
+        ]
+      },
+      "properties": {
+        "id": "152",
+        "land-id": "09277",
+        "name": "Wittibreut",
+        "population": 1938,
+        "area": 38.3,
+        "centroid_coordinates": [
+          13.011011460379507,
+          48.34197642929451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.811923559488415,
+          48.35575046172047
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09277",
+        "name": "Wurmannsquick",
+        "population": 3390,
+        "area": 49.26,
+        "centroid_coordinates": [
+          12.811923559488415,
+          48.35575046172047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.868713912987202,
+          48.298299815751164
+        ]
+      },
+      "properties": {
+        "id": "154",
+        "land-id": "09277",
+        "name": "Zeilarn",
+        "population": 2115,
+        "area": 28.87,
+        "centroid_coordinates": [
+          12.868713912987202,
+          48.298299815751164
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.612801650099593,
+          50.20745593682242
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09477",
+        "name": "Grafengehaig",
+        "population": 835,
+        "area": 20.84,
+        "centroid_coordinates": [
+          11.612801650099593,
+          50.20745593682242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.569744711869083,
+          50.16183694683497
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09477",
+        "name": "Guttenberg",
+        "population": 476,
+        "area": 10.61,
+        "centroid_coordinates": [
+          11.569744711869083,
+          50.16183694683497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.571127277347298,
+          50.0334804685024
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09477",
+        "name": "Harsdorf",
+        "population": 952,
+        "area": 11.3,
+        "centroid_coordinates": [
+          11.571127277347298,
+          50.0334804685024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.609415283430637,
+          50.05702026036727
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09477",
+        "name": "Himmelkron",
+        "population": 3246,
+        "area": 23.01,
+        "centroid_coordinates": [
+          11.609415283430637,
+          50.05702026036727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345418998167407,
+          50.040289206466554
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09477",
+        "name": "Kasendorf",
+        "population": 2424,
+        "area": 38.98,
+        "centroid_coordinates": [
+          11.345418998167407,
+          50.040289206466554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.510340533500242,
+          50.099291600116366
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09477",
+        "name": "Ködnitz",
+        "population": 1457,
+        "area": 19.64,
+        "centroid_coordinates": [
+          11.510340533500242,
+          50.099291600116366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.432574391642547,
+          50.1212137892677
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "land-id": "09477",
+        "name": "Kulmbach",
+        "population": 26587,
+        "area": 92.81,
+        "centroid_coordinates": [
+          11.432574391642547,
+          50.1212137892677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.587124099795517,
+          50.14331510163101
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09477",
+        "name": "Kupferberg",
+        "population": 1069,
+        "area": 8.3,
+        "centroid_coordinates": [
+          11.587124099795517,
+          50.14331510163101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.565723507915223,
+          50.123887819013056
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09477",
+        "name": "Ludwigschorgast",
+        "population": 981,
+        "area": 5.92,
+        "centroid_coordinates": [
+          11.565723507915223,
+          50.123887819013056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.354304230432545,
+          50.1055189110984
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09477",
+        "name": "Mainleus",
+        "population": 6495,
+        "area": 49.42,
+        "centroid_coordinates": [
+          11.354304230432545,
+          50.1055189110984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.636986512562572,
+          50.170005795280964
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09477",
+        "name": "Marktleugast",
+        "population": 3024,
+        "area": 33.83,
+        "centroid_coordinates": [
+          11.636986512562572,
+          50.170005795280964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.653534261305714,
+          50.09689927064511
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09477",
+        "name": "Marktschorgast",
+        "population": 1378,
+        "area": 15.77,
+        "centroid_coordinates": [
+          11.653534261305714,
+          50.09689927064511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.497357623620832,
+          50.02524059256969
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "land-id": "09477",
+        "name": "Neudrossenfeld",
+        "population": 3772,
+        "area": 50.22,
+        "centroid_coordinates": [
+          11.497357623620832,
+          50.02524059256969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570606451678135,
+          50.09421439812167
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09477",
+        "name": "Neuenmarkt",
+        "population": 2959,
+        "area": 18.94,
+        "centroid_coordinates": [
+          11.570606451678135,
+          50.09421439812167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5432443389068,
+          50.232594837587335
+        ]
+      },
+      "properties": {
+        "id": "148",
+        "land-id": "09477",
+        "name": "Presseck",
+        "population": 1705,
+        "area": 54.74,
+        "centroid_coordinates": [
+          11.5432443389068,
+          50.232594837587335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.454540105498806,
+          50.200409853278416
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09477",
+        "name": "Rugendorf",
+        "population": 944,
+        "area": 17.32,
+        "centroid_coordinates": [
+          11.454540105498806,
+          50.200409853278416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.515230055771722,
+          50.17751133686033
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "land-id": "09477",
+        "name": "Stadtsteinach",
+        "population": 3008,
+        "area": 39.79,
+        "centroid_coordinates": [
+          11.515230055771722,
+          50.17751133686033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.40160440431193,
+          50.00052992748052
+        ]
+      },
+      "properties": {
+        "id": "157",
+        "land-id": "09477",
+        "name": "Thurnau",
+        "population": 4067,
+        "area": 64.18,
+        "centroid_coordinates": [
+          11.40160440431193,
+          50.00052992748052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.533639180909775,
+          50.06680370300768
+        ]
+      },
+      "properties": {
+        "id": "158",
+        "land-id": "09477",
+        "name": "Trebgast",
+        "population": 1497,
+        "area": 17.07,
+        "centroid_coordinates": [
+          11.533639180909775,
+          50.06680370300768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51793796516863,
+          50.1356891397333
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "land-id": "09477",
+        "name": "Untersteinach",
+        "population": 1765,
+        "area": 11.46,
+        "centroid_coordinates": [
+          11.51793796516863,
+          50.1356891397333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.617387521774868,
+          50.11706626149567
+        ]
+      },
+      "properties": {
+        "id": "163",
+        "land-id": "09477",
+        "name": "Wirsberg",
+        "population": 1946,
+        "area": 17.24,
+        "centroid_coordinates": [
+          11.617387521774868,
+          50.11706626149567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.312722071324659,
+          49.98752395287492
+        ]
+      },
+      "properties": {
+        "id": "164",
+        "land-id": "09477",
+        "name": "Wonsees",
+        "population": 1154,
+        "area": 36.87,
+        "centroid_coordinates": [
+          11.312722071324659,
+          49.98752395287492
+        ]
+      }
+    }
+  ]
+}

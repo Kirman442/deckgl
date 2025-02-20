@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.924203739859948,
+          50.223129975315274
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09473",
+        "name": "Ahorn",
+        "population": 4061,
+        "area": 19.89,
+        "centroid_coordinates": [
+          10.924203739859948,
+          50.223129975315274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.999088354916395,
+          50.286930900511166
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09473",
+        "name": "Dörfles-Esbach",
+        "population": 3558,
+        "area": 3.81,
+        "centroid_coordinates": [
+          10.999088354916395,
+          50.286930900511166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0746698832054,
+          50.23650110617044
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09473",
+        "name": "Ebersdorf b.Coburg",
+        "population": 6102,
+        "area": 26.35,
+        "centroid_coordinates": [
+          11.0746698832054,
+          50.23650110617044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.920533480236928,
+          50.17860584592552
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09473",
+        "name": "Großheirath",
+        "population": 2548,
+        "area": 22.3,
+        "centroid_coordinates": [
+          10.920533480236928,
+          50.17860584592552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.023962847211145,
+          50.23196954088403
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09473",
+        "name": "Grub a.Forst",
+        "population": 2587,
+        "area": 11.96,
+        "centroid_coordinates": [
+          11.023962847211145,
+          50.23196954088403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.893935675204542,
+          50.13525211694543
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09473",
+        "name": "Itzgrund",
+        "population": 2330,
+        "area": 33.08,
+        "centroid_coordinates": [
+          10.893935675204542,
+          50.13525211694543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.959889368818175,
+          50.34332471979964
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09473",
+        "name": "Lautertal",
+        "population": 4423,
+        "area": 30.34,
+        "centroid_coordinates": [
+          10.959889368818175,
+          50.34332471979964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.894856253432174,
+          50.33371626186182
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09473",
+        "name": "Meeder",
+        "population": 3482,
+        "area": 73.5,
+        "centroid_coordinates": [
+          10.894856253432174,
+          50.33371626186182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.111255576027258,
+          50.3117176828043
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09473",
+        "name": "Neustadt b.Coburg",
+        "population": 14775,
+        "area": 61.89,
+        "centroid_coordinates": [
+          11.111255576027258,
+          50.3117176828043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.990921661463123,
+          50.22115366394012
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09473",
+        "name": "Niederfüllbach",
+        "population": 1419,
+        "area": 2.63,
+        "centroid_coordinates": [
+          10.990921661463123,
+          50.22115366394012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.794494724706109,
+          50.335731052597694
+        ]
+      },
+      "properties": {
+        "id": "158",
+        "land-id": "09473",
+        "name": "Bad Rodach",
+        "population": 6225,
+        "area": 80.47,
+        "centroid_coordinates": [
+          10.794494724706109,
+          50.335731052597694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.036029626080404,
+          50.30886310627366
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "land-id": "09473",
+        "name": "Rödental",
+        "population": 12435,
+        "area": 49.99,
+        "centroid_coordinates": [
+          11.036029626080404,
+          50.30886310627366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.810064732528884,
+          50.197829846851086
+        ]
+      },
+      "properties": {
+        "id": "165",
+        "land-id": "09473",
+        "name": "Seßlach",
+        "population": 3817,
+        "area": 72.51,
+        "centroid_coordinates": [
+          10.810064732528884,
+          50.197829846851086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.148657321279586,
+          50.23708920025984
+        ]
+      },
+      "properties": {
+        "id": "166",
+        "land-id": "09473",
+        "name": "Sonnefeld",
+        "population": 4409,
+        "area": 34.72,
+        "centroid_coordinates": [
+          11.148657321279586,
+          50.23708920025984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.964562287983956,
+          50.19862211682994
+        ]
+      },
+      "properties": {
+        "id": "170",
+        "land-id": "09473",
+        "name": "Untersiemau",
+        "population": 4098,
+        "area": 20.47,
+        "centroid_coordinates": [
+          10.964562287983956,
+          50.19862211682994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.150103466332258,
+          50.19961242754887
+        ]
+      },
+      "properties": {
+        "id": "174",
+        "land-id": "09473",
+        "name": "Weidhausen b.Coburg",
+        "population": 3166,
+        "area": 9.6,
+        "centroid_coordinates": [
+          11.150103466332258,
+          50.19961242754887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.872638362397355,
+          50.24808012908322
+        ]
+      },
+      "properties": {
+        "id": "175",
+        "land-id": "09473",
+        "name": "Weitramsdorf",
+        "population": 5051,
+        "area": 33.71,
+        "centroid_coordinates": [
+          10.872638362397355,
+          50.24808012908322
+        ]
+      }
+    }
+  ]
+}

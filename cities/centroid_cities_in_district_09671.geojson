@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.079810421003884,
+          50.084895854031416
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09671",
+        "name": "Alzenau",
+        "population": 17813,
+        "area": 59.33,
+        "centroid_coordinates": [
+          9.079810421003884,
+          50.084895854031416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.261309089927208,
+          49.96500024842675
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09671",
+        "name": "Bessenbach",
+        "population": 5433,
+        "area": 29.86,
+        "centroid_coordinates": [
+          9.261309089927208,
+          49.96500024842675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.230926629778695,
+          50.063927742397745
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09671",
+        "name": "Blankenbach",
+        "population": 1451,
+        "area": 3.96,
+        "centroid_coordinates": [
+          9.230926629778695,
+          50.063927742397745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.028732653261422,
+          50.04483234950159
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "land-id": "09671",
+        "name": "Karlstein a.Main",
+        "population": 7597,
+        "area": 12.64,
+        "centroid_coordinates": [
+          9.028732653261422,
+          50.04483234950159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19473582277522,
+          50.119643858813994
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09671",
+        "name": "Geiselbach",
+        "population": 2101,
+        "area": 12.43,
+        "centroid_coordinates": [
+          9.19473582277522,
+          50.119643858813994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.144214947088548,
+          50.00958713812372
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09671",
+        "name": "Glattbach",
+        "population": 3202,
+        "area": 3.57,
+        "centroid_coordinates": [
+          9.144214947088548,
+          50.00958713812372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175591300630979,
+          50.00653156087533
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09671",
+        "name": "Goldbach",
+        "population": 9838,
+        "area": 10.96,
+        "centroid_coordinates": [
+          9.175591300630979,
+          50.00653156087533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.064834680103564,
+          49.91578256451529
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09671",
+        "name": "Großostheim",
+        "population": 15903,
+        "area": 44.31,
+        "centroid_coordinates": [
+          9.064834680103564,
+          49.91578256451529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.210027525345732,
+          49.96181564197925
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09671",
+        "name": "Haibach",
+        "population": 8048,
+        "area": 7.36,
+        "centroid_coordinates": [
+          9.210027525345732,
+          49.96181564197925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.359406563763754,
+          50.034306953146064
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09671",
+        "name": "Heigenbrücken",
+        "population": 2147,
+        "area": 6.68,
+        "centroid_coordinates": [
+          9.359406563763754,
+          50.034306953146064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.29624172801463,
+          49.88463724080057
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09671",
+        "name": "Heimbuchenthal",
+        "population": 2133,
+        "area": 17.12,
+        "centroid_coordinates": [
+          9.29624172801463,
+          49.88463724080057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.341500992845086,
+          50.07166269524605
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "land-id": "09671",
+        "name": "Heinrichsthal",
+        "population": 817,
+        "area": 4.46,
+        "centroid_coordinates": [
+          9.341500992845086,
+          50.07166269524605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.214860952122747,
+          50.01500766629775
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "land-id": "09671",
+        "name": "Hösbach",
+        "population": 13076,
+        "area": 30.59,
+        "centroid_coordinates": [
+          9.214860952122747,
+          50.01500766629775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.130000788470676,
+          50.02895947572307
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09671",
+        "name": "Johannesberg",
+        "population": 4054,
+        "area": 13.55,
+        "centroid_coordinates": [
+          9.130000788470676,
+          50.02895947572307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.013148229693954,
+          50.085556995206026
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09671",
+        "name": "Kahl a.Main",
+        "population": 8459,
+        "area": 10.61,
+        "centroid_coordinates": [
+          9.013148229693954,
+          50.085556995206026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.285793340450025,
+          50.11597666050261
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09671",
+        "name": "Kleinkahl",
+        "population": 1805,
+        "area": 14.17,
+        "centroid_coordinates": [
+          9.285793340450025,
+          50.11597666050261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.065265217288855,
+          50.01569042276473
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09671",
+        "name": "Kleinostheim",
+        "population": 8431,
+        "area": 13.82,
+        "centroid_coordinates": [
+          9.065265217288855,
+          50.01569042276473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.201236799784528,
+          50.082321971599086
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09671",
+        "name": "Krombach",
+        "population": 2062,
+        "area": 10.64,
+        "centroid_coordinates": [
+          9.201236799784528,
+          50.082321971599086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.30280981355776,
+          50.01287449039437
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09671",
+        "name": "Laufach",
+        "population": 5081,
+        "area": 15.51,
+        "centroid_coordinates": [
+          9.30280981355776,
+          50.01287449039437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.088337030369463,
+          49.99224224968957
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "land-id": "09671",
+        "name": "Mainaschaff",
+        "population": 8788,
+        "area": 7.28,
+        "centroid_coordinates": [
+          9.088337030369463,
+          49.99224224968957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.300635886779936,
+          49.91889107279237
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09671",
+        "name": "Mespelbrunn",
+        "population": 2214,
+        "area": 15.47,
+        "centroid_coordinates": [
+          9.300635886779936,
+          49.91889107279237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15664771023305,
+          50.064322702112385
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09671",
+        "name": "Mömbris",
+        "population": 11195,
+        "area": 35.84,
+        "centroid_coordinates": [
+          9.15664771023305,
+          50.064322702112385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.408546890397067,
+          49.96129291192028
+        ]
+      },
+      "properties": {
+        "id": "148",
+        "land-id": "09671",
+        "name": "Rothenbuch",
+        "population": 1596,
+        "area": 7.0,
+        "centroid_coordinates": [
+          9.408546890397067,
+          49.96129291192028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.256235079108189,
+          50.02974058302164
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "land-id": "09671",
+        "name": "Sailauf",
+        "population": 3577,
+        "area": 13.8,
+        "centroid_coordinates": [
+          9.256235079108189,
+          50.02974058302164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.237156824205407,
+          50.09453217239087
+        ]
+      },
+      "properties": {
+        "id": "152",
+        "land-id": "09671",
+        "name": "Schöllkrippen",
+        "population": 4146,
+        "area": 12.62,
+        "centroid_coordinates": [
+          9.237156824205407,
+          50.09453217239087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.264349044801019,
+          50.067816638836426
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09671",
+        "name": "Sommerkahl",
+        "population": 1258,
+        "area": 5.44,
+        "centroid_coordinates": [
+          9.264349044801019,
+          50.067816638836426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.050625027593384,
+          49.97489279292558
+        ]
+      },
+      "properties": {
+        "id": "155",
+        "land-id": "09671",
+        "name": "Stockstadt a.Main",
+        "population": 7851,
+        "area": 18.86,
+        "centroid_coordinates": [
+          9.050625027593384,
+          49.97489279292558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.29933396845934,
+          49.97114446268472
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "land-id": "09671",
+        "name": "Waldaschaff",
+        "population": 4129,
+        "area": 6.54,
+        "centroid_coordinates": [
+          9.29933396845934,
+          49.97114446268472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.369773276278375,
+          49.92532944633607
+        ]
+      },
+      "properties": {
+        "id": "157",
+        "land-id": "09671",
+        "name": "Weibersbrunn",
+        "population": 1817,
+        "area": 2.97,
+        "centroid_coordinates": [
+          9.369773276278375,
+          49.92532944633607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.246435104289388,
+          50.12594505743323
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "land-id": "09671",
+        "name": "Westerngrund",
+        "population": 1964,
+        "area": 14.76,
+        "centroid_coordinates": [
+          9.246435104289388,
+          50.12594505743323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.34340719245761,
+          49.864938515131655
+        ]
+      },
+      "properties": {
+        "id": "160",
+        "land-id": "09671",
+        "name": "Dammbach",
+        "population": 1920,
+        "area": 32.84,
+        "centroid_coordinates": [
+          9.34340719245761,
+          49.864938515131655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.365486318814789,
+          50.10990141526072
+        ]
+      },
+      "properties": {
+        "id": "162",
+        "land-id": "09671",
+        "name": "Wiesen",
+        "population": 1010,
+        "area": 5.65,
+        "centroid_coordinates": [
+          9.365486318814789,
+          50.10990141526072
+        ]
+      }
+    }
+  ]
+}

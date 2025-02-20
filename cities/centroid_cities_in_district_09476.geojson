@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.334930718549204,
+          50.24458761535804
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09476",
+        "name": "Kronach",
+        "population": 16613,
+        "area": 66.96,
+        "centroid_coordinates": [
+          11.334930718549204,
+          50.24458761535804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276924155667434,
+          50.19385170870473
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09476",
+        "name": "Küps",
+        "population": 7711,
+        "area": 35.59,
+        "centroid_coordinates": [
+          11.276924155667434,
+          50.19385170870473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.374047655897352,
+          50.482451595363585
+        ]
+      },
+      "properties": {
+        "id": "152",
+        "land-id": "09476",
+        "name": "Ludwigsstadt",
+        "population": 3104,
+        "area": 58.74,
+        "centroid_coordinates": [
+          11.374047655897352,
+          50.482451595363585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.226266890457323,
+          50.25065493482883
+        ]
+      },
+      "properties": {
+        "id": "154",
+        "land-id": "09476",
+        "name": "Mitwitz",
+        "population": 2852,
+        "area": 33.16,
+        "centroid_coordinates": [
+          11.226266890457323,
+          50.25065493482883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.500639370892047,
+          50.36882788953683
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "land-id": "09476",
+        "name": "Nordhalben",
+        "population": 1530,
+        "area": 21.85,
+        "centroid_coordinates": [
+          11.500639370892047,
+          50.36882788953683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.319728372149399,
+          50.36302335309152
+        ]
+      },
+      "properties": {
+        "id": "164",
+        "land-id": "09476",
+        "name": "Pressig",
+        "population": 3876,
+        "area": 53.16,
+        "centroid_coordinates": [
+          11.319728372149399,
+          50.36302335309152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.42334402084986,
+          50.42544475818589
+        ]
+      },
+      "properties": {
+        "id": "166",
+        "land-id": "09476",
+        "name": "Reichenbach",
+        "population": 664,
+        "area": 8.64,
+        "centroid_coordinates": [
+          11.42334402084986,
+          50.42544475818589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.203366959473644,
+          50.21190706380894
+        ]
+      },
+      "properties": {
+        "id": "171",
+        "land-id": "09476",
+        "name": "Schneckenlohe",
+        "population": 974,
+        "area": 9.28,
+        "centroid_coordinates": [
+          11.203366959473644,
+          50.21190706380894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.329671188389206,
+          50.42902231784654
+        ]
+      },
+      "properties": {
+        "id": "175",
+        "land-id": "09476",
+        "name": "Steinbach a.Wald",
+        "population": 3032,
+        "area": 36.12,
+        "centroid_coordinates": [
+          11.329671188389206,
+          50.42902231784654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.462770532917043,
+          50.32001229125488
+        ]
+      },
+      "properties": {
+        "id": "177",
+        "land-id": "09476",
+        "name": "Steinwiesen",
+        "population": 3278,
+        "area": 54.99,
+        "centroid_coordinates": [
+          11.462770532917043,
+          50.32001229125488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.286782319727706,
+          50.3070432461163
+        ]
+      },
+      "properties": {
+        "id": "178",
+        "land-id": "09476",
+        "name": "Stockheim",
+        "population": 4771,
+        "area": 25.34,
+        "centroid_coordinates": [
+          11.286782319727706,
+          50.3070432461163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.277457333841554,
+          50.451606663822005
+        ]
+      },
+      "properties": {
+        "id": "179",
+        "land-id": "09476",
+        "name": "Tettau",
+        "population": 1890,
+        "area": 23.86,
+        "centroid_coordinates": [
+          11.277457333841554,
+          50.451606663822005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.393018241090417,
+          50.394568247912815
+        ]
+      },
+      "properties": {
+        "id": "180",
+        "land-id": "09476",
+        "name": "Teuschnitz",
+        "population": 1852,
+        "area": 34.29,
+        "centroid_coordinates": [
+          11.393018241090417,
+          50.394568247912815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.461183921033161,
+          50.3981789299244
+        ]
+      },
+      "properties": {
+        "id": "182",
+        "land-id": "09476",
+        "name": "Tschirn",
+        "population": 520,
+        "area": 20.19,
+        "centroid_coordinates": [
+          11.461183921033161,
+          50.3981789299244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.412603539830394,
+          50.24553827054602
+        ]
+      },
+      "properties": {
+        "id": "183",
+        "land-id": "09476",
+        "name": "Marktrodach",
+        "population": 3593,
+        "area": 33.31,
+        "centroid_coordinates": [
+          11.412603539830394,
+          50.24553827054602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.499619977344425,
+          50.27781673392308
+        ]
+      },
+      "properties": {
+        "id": "184",
+        "land-id": "09476",
+        "name": "Wallenfels",
+        "population": 2467,
+        "area": 45.61,
+        "centroid_coordinates": [
+          11.499619977344425,
+          50.27781673392308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.353819785255942,
+          50.1910823773097
+        ]
+      },
+      "properties": {
+        "id": "185",
+        "land-id": "09476",
+        "name": "Weißenbrunn",
+        "population": 2730,
+        "area": 26.41,
+        "centroid_coordinates": [
+          11.353819785255942,
+          50.1910823773097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.382535766845397,
+          50.317372650201655
+        ]
+      },
+      "properties": {
+        "id": "189",
+        "land-id": "09476",
+        "name": "Wilhelmsthal",
+        "population": 3403,
+        "area": 43.09,
+        "centroid_coordinates": [
+          11.382535766845397,
+          50.317372650201655
+        ]
+      }
+    }
+  ]
+}

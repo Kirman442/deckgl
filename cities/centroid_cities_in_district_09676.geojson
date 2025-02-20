@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.411140876514184,
+          49.8409262693834
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09676",
+        "name": "Altenbuch",
+        "population": 1233,
+        "area": 37.65,
+        "centroid_coordinates": [
+          9.411140876514184,
+          49.8409262693834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.193851741838197,
+          49.64301086711225
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09676",
+        "name": "Amorbach",
+        "population": 3904,
+        "area": 50.93,
+        "centroid_coordinates": [
+          9.193851741838197,
+          49.64301086711225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.298906347858582,
+          49.72241256472854
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09676",
+        "name": "Bürgstadt",
+        "population": 4172,
+        "area": 17.41,
+        "centroid_coordinates": [
+          9.298906347858582,
+          49.72241256472854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.315456384872535,
+          49.77214305767782
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09676",
+        "name": "Collenberg",
+        "population": 2480,
+        "area": 25.59,
+        "centroid_coordinates": [
+          9.315456384872535,
+          49.77214305767782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.372626070003811,
+          49.791301065743006
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09676",
+        "name": "Dorfprozelten",
+        "population": 1723,
+        "area": 11.33,
+        "centroid_coordinates": [
+          9.372626070003811,
+          49.791301065743006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.358578844384494,
+          49.676511481887395
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09676",
+        "name": "Eichenbühl",
+        "population": 2484,
+        "area": 31.13,
+        "centroid_coordinates": [
+          9.358578844384494,
+          49.676511481887395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.205092468922208,
+          49.835070560216415
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09676",
+        "name": "Elsenfeld",
+        "population": 9164,
+        "area": 24.31,
+        "centroid_coordinates": [
+          9.205092468922208,
+          49.835070560216415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.176625800592408,
+          49.806931655063295
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09676",
+        "name": "Erlenbach a.Main",
+        "population": 9786,
+        "area": 16.24,
+        "centroid_coordinates": [
+          9.176625800592408,
+          49.806931655063295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.28865581876719,
+          49.83057233941494
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "land-id": "09676",
+        "name": "Eschau",
+        "population": 3913,
+        "area": 38.06,
+        "centroid_coordinates": [
+          9.28865581876719,
+          49.83057233941494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.450578097613818,
+          49.793765644138205
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09676",
+        "name": "Faulbach",
+        "population": 2560,
+        "area": 10.96,
+        "centroid_coordinates": [
+          9.450578097613818,
+          49.793765644138205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.233604304983064,
+          49.7353269854285
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "land-id": "09676",
+        "name": "Großheubach",
+        "population": 5056,
+        "area": 18.95,
+        "centroid_coordinates": [
+          9.233604304983064,
+          49.7353269854285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.137575779038205,
+          49.87354543301723
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09676",
+        "name": "Großwallstadt",
+        "population": 4221,
+        "area": 13.99,
+        "centroid_coordinates": [
+          9.137575779038205,
+          49.87354543301723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22018980627961,
+          49.87402925841646
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "land-id": "09676",
+        "name": "Hausen",
+        "population": 1844,
+        "area": 8.05,
+        "centroid_coordinates": [
+          9.22018980627961,
+          49.87402925841646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.14297750748112,
+          49.60725901824162
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09676",
+        "name": "Kirchzell",
+        "population": 2217,
+        "area": 63.71,
+        "centroid_coordinates": [
+          9.14297750748112,
+          49.60725901824162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.190182092354021,
+          49.72198770542632
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09676",
+        "name": "Kleinheubach",
+        "population": 3647,
+        "area": 9.48,
+        "centroid_coordinates": [
+          9.190182092354021,
+          49.72198770542632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.189728931444625,
+          49.868587069519286
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09676",
+        "name": "Kleinwallstadt",
+        "population": 5577,
+        "area": 15.76,
+        "centroid_coordinates": [
+          9.189728931444625,
+          49.868587069519286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.181581569889824,
+          49.7633488754032
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09676",
+        "name": "Klingenberg a.Main",
+        "population": 6098,
+        "area": 21.13,
+        "centroid_coordinates": [
+          9.181581569889824,
+          49.7633488754032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.165017474382616,
+          49.7380227584758
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09676",
+        "name": "Laudenbach",
+        "population": 1469,
+        "area": 4.92,
+        "centroid_coordinates": [
+          9.165017474382616,
+          49.7380227584758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.233900172079325,
+          49.896374787870364
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09676",
+        "name": "Leidersbach",
+        "population": 4633,
+        "area": 19.78,
+        "centroid_coordinates": [
+          9.233900172079325,
+          49.896374787870364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.244886383059814,
+          49.689373959442825
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09676",
+        "name": "Miltenberg",
+        "population": 9409,
+        "area": 60.2,
+        "centroid_coordinates": [
+          9.244886383059814,
+          49.689373959442825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.074760036464202,
+          49.85822777035969
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "land-id": "09676",
+        "name": "Mömlingen",
+        "population": 4812,
+        "area": 18.48,
+        "centroid_coordinates": [
+          9.074760036464202,
+          49.85822777035969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.263501294055164,
+          49.792234147775766
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09676",
+        "name": "Mönchberg",
+        "population": 2484,
+        "area": 24.21,
+        "centroid_coordinates": [
+          9.263501294055164,
+          49.792234147775766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.392780901361915,
+          49.7002710609665
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09676",
+        "name": "Neunkirchen",
+        "population": 1425,
+        "area": 16.64,
+        "centroid_coordinates": [
+          9.392780901361915,
+          49.7002710609665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.121434421211697,
+          49.90717689221047
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09676",
+        "name": "Niedernberg",
+        "population": 4737,
+        "area": 15.6,
+        "centroid_coordinates": [
+          9.121434421211697,
+          49.90717689221047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113735004195677,
+          49.82800570039953
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09676",
+        "name": "Obernburg a.Main",
+        "population": 8590,
+        "area": 24.86,
+        "centroid_coordinates": [
+          9.113735004195677,
+          49.82800570039953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.255249361220914,
+          49.76605977201431
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09676",
+        "name": "Röllbach",
+        "population": 1755,
+        "area": 12.4,
+        "centroid_coordinates": [
+          9.255249361220914,
+          49.76605977201431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.168799574732507,
+          49.71166724304675
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09676",
+        "name": "Rüdenau",
+        "population": 726,
+        "area": 4.01,
+        "centroid_coordinates": [
+          9.168799574732507,
+          49.71166724304675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.256053730618738,
+          49.62382222820598
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "land-id": "09676",
+        "name": "Schneeberg",
+        "population": 1740,
+        "area": 16.54,
+        "centroid_coordinates": [
+          9.256053730618738,
+          49.62382222820598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.39620304998903,
+          49.80249595544257
+        ]
+      },
+      "properties": {
+        "id": "158",
+        "land-id": "09676",
+        "name": "Stadtprozelten",
+        "population": 1570,
+        "area": 10.85,
+        "centroid_coordinates": [
+          9.39620304998903,
+          49.80249595544257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.190554275658933,
+          49.91515121768142
+        ]
+      },
+      "properties": {
+        "id": "160",
+        "land-id": "09676",
+        "name": "Sulzbach a.Main",
+        "population": 7377,
+        "area": 19.93,
+        "centroid_coordinates": [
+          9.190554275658933,
+          49.91515121768142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.169747160909528,
+          49.67404824746039
+        ]
+      },
+      "properties": {
+        "id": "165",
+        "land-id": "09676",
+        "name": "Weilbach",
+        "population": 2048,
+        "area": 27.17,
+        "centroid_coordinates": [
+          9.169747160909528,
+          49.67404824746039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.139763983755602,
+          49.781943998329965
+        ]
+      },
+      "properties": {
+        "id": "169",
+        "land-id": "09676",
+        "name": "Wörth a.Main",
+        "population": 4789,
+        "area": 15.88,
+        "centroid_coordinates": [
+          9.139763983755602,
+          49.781943998329965
+        ]
+      }
+    }
+  ]
+}

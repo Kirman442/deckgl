@@ -1,0 +1,803 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.125449299900302,
+          49.72349028722954
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09374",
+        "name": "Altenstadt a.d.Waldnaab",
+        "population": 4686,
+        "area": 21.99,
+        "centroid_coordinates": [
+          12.125449299900302,
+          49.72349028722954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.830400343533292,
+          49.746891065279705
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09374",
+        "name": "Eschenbach i.d.OPf.",
+        "population": 4314,
+        "area": 35.18,
+        "centroid_coordinates": [
+          11.830400343533292,
+          49.746891065279705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.524925189732855,
+          49.57940247646234
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09374",
+        "name": "Eslarn",
+        "population": 2734,
+        "area": 55.2,
+        "centroid_coordinates": [
+          12.524925189732855,
+          49.57940247646234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.094839011937625,
+          49.62307585285454
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09374",
+        "name": "Etzenricht",
+        "population": 1545,
+        "area": 13.64,
+        "centroid_coordinates": [
+          12.094839011937625,
+          49.62307585285454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.277808089398983,
+          49.7256887584857
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09374",
+        "name": "Floß",
+        "population": 3504,
+        "area": 54.35,
+        "centroid_coordinates": [
+          12.277808089398983,
+          49.7256887584857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.358147890382128,
+          49.74223937948911
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09374",
+        "name": "Flossenbürg",
+        "population": 1489,
+        "area": 23.31,
+        "centroid_coordinates": [
+          12.358147890382128,
+          49.74223937948911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.40840167181339,
+          49.70444343904175
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "land-id": "09374",
+        "name": "Georgenberg",
+        "population": 1271,
+        "area": 36.81,
+        "centroid_coordinates": [
+          12.40840167181339,
+          49.70444343904175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.800874027006461,
+          49.68364107601962
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09374",
+        "name": "Grafenwöhr",
+        "population": 6323,
+        "area": 216.04,
+        "centroid_coordinates": [
+          11.800874027006461,
+          49.68364107601962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22608789348312,
+          49.628206727453325
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09374",
+        "name": "Irchenrieth",
+        "population": 1669,
+        "area": 5.25,
+        "centroid_coordinates": [
+          12.22608789348312,
+          49.628206727453325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.110837072649886,
+          49.76950370016163
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "land-id": "09374",
+        "name": "Kirchendemenreuth",
+        "population": 904,
+        "area": 39.36,
+        "centroid_coordinates": [
+          12.110837072649886,
+          49.76950370016163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.703154235064588,
+          49.75657245452866
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09374",
+        "name": "Kirchenthumbach",
+        "population": 3257,
+        "area": 67.62,
+        "centroid_coordinates": [
+          11.703154235064588,
+          49.75657245452866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.023350242385803,
+          49.60051135636043
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09374",
+        "name": "Kohlberg",
+        "population": 1217,
+        "area": 33.42,
+        "centroid_coordinates": [
+          12.023350242385803,
+          49.60051135636043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.26401573851123,
+          49.58841491403221
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09374",
+        "name": "Leuchtenberg",
+        "population": 1195,
+        "area": 32.37,
+        "centroid_coordinates": [
+          12.26401573851123,
+          49.58841491403221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12851659916318,
+          49.584854346945164
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09374",
+        "name": "Luhe-Wildenau",
+        "population": 3438,
+        "area": 38.59,
+        "centroid_coordinates": [
+          12.12851659916318,
+          49.584854346945164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.03640852382618,
+          49.657203948662875
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09374",
+        "name": "Mantel",
+        "population": 2788,
+        "area": 16.83,
+        "centroid_coordinates": [
+          12.03640852382618,
+          49.657203948662875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.424678966700823,
+          49.57332545566142
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "land-id": "09374",
+        "name": "Moosbach",
+        "population": 2486,
+        "area": 64.23,
+        "centroid_coordinates": [
+          12.424678966700823,
+          49.57332545566142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.17052844456875,
+          49.73319289077434
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09374",
+        "name": "Neustadt a.d.Waldnaab",
+        "population": 6071,
+        "area": 9.93,
+        "centroid_coordinates": [
+          12.17052844456875,
+          49.73319289077434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.835319832057145,
+          49.82751158231363
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "land-id": "09374",
+        "name": "Neustadt am Kulm",
+        "population": 1157,
+        "area": 20.34,
+        "centroid_coordinates": [
+          11.835319832057145,
+          49.82751158231363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.057406714422841,
+          49.73346935345587
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09374",
+        "name": "Parkstein",
+        "population": 2378,
+        "area": 30.89,
+        "centroid_coordinates": [
+          12.057406714422841,
+          49.73346935345587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.184013021088575,
+          49.616181960333144
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09374",
+        "name": "Pirk",
+        "population": 1950,
+        "area": 26.14,
+        "centroid_coordinates": [
+          12.184013021088575,
+          49.616181960333144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.421267624561143,
+          49.64881762969468
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09374",
+        "name": "Pleystein",
+        "population": 2364,
+        "area": 42.34,
+        "centroid_coordinates": [
+          12.421267624561143,
+          49.64881762969468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.89839612231124,
+          49.78358922454702
+        ]
+      },
+      "properties": {
+        "id": "148",
+        "land-id": "09374",
+        "name": "Trabitz",
+        "population": 1347,
+        "area": 26.72,
+        "centroid_coordinates": [
+          11.89839612231124,
+          49.78358922454702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.974063387806567,
+          49.76800768727798
+        ]
+      },
+      "properties": {
+        "id": "149",
+        "land-id": "09374",
+        "name": "Pressath",
+        "population": 4215,
+        "area": 66.53,
+        "centroid_coordinates": [
+          11.974063387806567,
+          49.76800768727798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.215288796449546,
+          49.77153125455505
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "land-id": "09374",
+        "name": "Püchersreuth",
+        "population": 1703,
+        "area": 25.15,
+        "centroid_coordinates": [
+          12.215288796449546,
+          49.77153125455505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.176559805118252,
+          49.64982416830852
+        ]
+      },
+      "properties": {
+        "id": "154",
+        "land-id": "09374",
+        "name": "Schirmitz",
+        "population": 2086,
+        "area": 4.94,
+        "centroid_coordinates": [
+          12.176559805118252,
+          49.64982416830852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.743199060328369,
+          49.79041212671143
+        ]
+      },
+      "properties": {
+        "id": "155",
+        "land-id": "09374",
+        "name": "Schlammersdorf",
+        "population": 872,
+        "area": 20.36,
+        "centroid_coordinates": [
+          11.743199060328369,
+          49.79041212671143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.003982364521905,
+          49.72002235419931
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "land-id": "09374",
+        "name": "Schwarzenbach",
+        "population": 1143,
+        "area": 12.23,
+        "centroid_coordinates": [
+          12.003982364521905,
+          49.72002235419931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.820385637109837,
+          49.78521380099614
+        ]
+      },
+      "properties": {
+        "id": "157",
+        "land-id": "09374",
+        "name": "Speinshart",
+        "population": 1126,
+        "area": 23.83,
+        "centroid_coordinates": [
+          11.820385637109837,
+          49.78521380099614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.20312983677101,
+          49.74293528664467
+        ]
+      },
+      "properties": {
+        "id": "158",
+        "land-id": "09374",
+        "name": "Störnstein",
+        "population": 1549,
+        "area": 10.97,
+        "centroid_coordinates": [
+          12.20312983677101,
+          49.74293528664467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33148472949513,
+          49.543049805799136
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "land-id": "09374",
+        "name": "Tännesberg",
+        "population": 1475,
+        "area": 46.58,
+        "centroid_coordinates": [
+          12.33148472949513,
+          49.543049805799136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.225279110809309,
+          49.69324486154286
+        ]
+      },
+      "properties": {
+        "id": "160",
+        "land-id": "09374",
+        "name": "Theisseil",
+        "population": 1198,
+        "area": 21.39,
+        "centroid_coordinates": [
+          12.225279110809309,
+          49.69324486154286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.327777498852068,
+          49.6208585063539
+        ]
+      },
+      "properties": {
+        "id": "162",
+        "land-id": "09374",
+        "name": "Vohenstrauß",
+        "population": 7687,
+        "area": 75.15,
+        "centroid_coordinates": [
+          12.327777498852068,
+          49.6208585063539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.753780742079442,
+          49.814911535121716
+        ]
+      },
+      "properties": {
+        "id": "163",
+        "land-id": "09374",
+        "name": "Vorbach",
+        "population": 1076,
+        "area": 13.53,
+        "centroid_coordinates": [
+          11.753780742079442,
+          49.814911535121716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.492545650449323,
+          49.65122292362169
+        ]
+      },
+      "properties": {
+        "id": "164",
+        "land-id": "09374",
+        "name": "Waidhaus",
+        "population": 2130,
+        "area": 37.32,
+        "centroid_coordinates": [
+          12.492545650449323,
+          49.65122292362169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.328366051084211,
+          49.68130818388123
+        ]
+      },
+      "properties": {
+        "id": "165",
+        "land-id": "09374",
+        "name": "Waldthurn",
+        "population": 1941,
+        "area": 30.98,
+        "centroid_coordinates": [
+          12.328366051084211,
+          49.68130818388123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.992689550314532,
+          49.64491441756978
+        ]
+      },
+      "properties": {
+        "id": "166",
+        "land-id": "09374",
+        "name": "Weiherhammer",
+        "population": 3842,
+        "area": 40.1,
+        "centroid_coordinates": [
+          11.992689550314532,
+          49.64491441756978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.155957361722379,
+          49.81160219401027
+        ]
+      },
+      "properties": {
+        "id": "168",
+        "land-id": "09374",
+        "name": "Windischeschenbach",
+        "population": 4994,
+        "area": 36.35,
+        "centroid_coordinates": [
+          12.155957361722379,
+          49.81160219401027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.210503017957285,
+          49.64714392731755
+        ]
+      },
+      "properties": {
+        "id": "170",
+        "land-id": "09374",
+        "name": "Bechtsrieth",
+        "population": 1068,
+        "area": 4.8,
+        "centroid_coordinates": [
+          12.210503017957285,
+          49.64714392731755
+        ]
+      }
+    }
+  ]
+}

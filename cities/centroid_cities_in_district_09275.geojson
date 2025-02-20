@@ -1,0 +1,803 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30976243191558,
+          48.681598215855175
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09275",
+        "name": "Aicha vorm Wald",
+        "population": 2477,
+        "area": 20.36,
+        "centroid_coordinates": [
+          13.30976243191558,
+          48.681598215855175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.058412116438433,
+          48.55796664259659
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09275",
+        "name": "Aidenbach",
+        "population": 3019,
+        "area": 17.08,
+        "centroid_coordinates": [
+          13.058412116438433,
+          48.55796664259659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.056645280572605,
+          48.59631191824325
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "land-id": "09275",
+        "name": "Aldersbach",
+        "population": 4309,
+        "area": 45.87,
+        "centroid_coordinates": [
+          13.056645280572605,
+          48.59631191824325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30373651162386,
+          48.33756543366084
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09275",
+        "name": "Bad Füssing",
+        "population": 7850,
+        "area": 55.06,
+        "centroid_coordinates": [
+          13.30373651162386,
+          48.33756543366084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.130796556770992,
+          48.55367948745257
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09275",
+        "name": "Beutelsbach",
+        "population": 1234,
+        "area": 20.37,
+        "centroid_coordinates": [
+          13.130796556770992,
+          48.55367948745257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.777502214618586,
+          48.695463761841495
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09275",
+        "name": "Breitenberg",
+        "population": 1969,
+        "area": 29.82,
+        "centroid_coordinates": [
+          13.777502214618586,
+          48.695463761841495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.529337117406543,
+          48.67482880574841
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09275",
+        "name": "Büchlberg",
+        "population": 4388,
+        "area": 28.07,
+        "centroid_coordinates": [
+          13.529337117406543,
+          48.67482880574841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25599892600432,
+          48.70937296797801
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09275",
+        "name": "Eging a.See",
+        "population": 4131,
+        "area": 23.67,
+        "centroid_coordinates": [
+          13.25599892600432,
+          48.70937296797801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.323051647884387,
+          48.713072664159064
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09275",
+        "name": "Fürstenstein",
+        "population": 3538,
+        "area": 19.35,
+        "centroid_coordinates": [
+          13.323051647884387,
+          48.713072664159064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.321247498980286,
+          48.5307319831547
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09275",
+        "name": "Fürstenzell",
+        "population": 8504,
+        "area": 79.21,
+        "centroid_coordinates": [
+          13.321247498980286,
+          48.5307319831547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1965761030157,
+          48.4633394260321
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09275",
+        "name": "Bad Griesbach i.Rottal",
+        "population": 8864,
+        "area": 70.06,
+        "centroid_coordinates": [
+          13.1965761030157,
+          48.4633394260321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.145083135370252,
+          48.50235552779117
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "land-id": "09275",
+        "name": "Haarbach",
+        "population": 2473,
+        "area": 47.68,
+        "centroid_coordinates": [
+          13.145083135370252,
+          48.50235552779117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.628923413722367,
+          48.64898807806196
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09275",
+        "name": "Hauzenberg",
+        "population": 12000,
+        "area": 82.54,
+        "centroid_coordinates": [
+          13.628923413722367,
+          48.64898807806196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.167043307946312,
+          48.67860283158274
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09275",
+        "name": "Hofkirchen",
+        "population": 3570,
+        "area": 32.68,
+        "centroid_coordinates": [
+          13.167043307946312,
+          48.67860283158274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.481161158160718,
+          48.690038619162394
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "land-id": "09275",
+        "name": "Hutthurm",
+        "population": 6314,
+        "area": 37.3,
+        "centroid_coordinates": [
+          13.481161158160718,
+          48.690038619162394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.253452679680741,
+          48.34569157629288
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "land-id": "09275",
+        "name": "Kirchham",
+        "population": 2751,
+        "area": 18.44,
+        "centroid_coordinates": [
+          13.253452679680741,
+          48.34569157629288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.124563406035861,
+          48.36969473106262
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09275",
+        "name": "Kößlarn",
+        "population": 1882,
+        "area": 25.52,
+        "centroid_coordinates": [
+          13.124563406035861,
+          48.36969473106262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.184585999683812,
+          48.32443509325696
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09275",
+        "name": "Malching",
+        "population": 1248,
+        "area": 25.2,
+        "centroid_coordinates": [
+          13.184585999683812,
+          48.32443509325696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402826637286456,
+          48.51705629513659
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09275",
+        "name": "Neuburg a.Inn",
+        "population": 4446,
+        "area": 41.7,
+        "centroid_coordinates": [
+          13.402826637286456,
+          48.51705629513659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411416531522537,
+          48.45002490270253
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09275",
+        "name": "Neuhaus a.Inn",
+        "population": 3405,
+        "area": 31.02,
+        "centroid_coordinates": [
+          13.411416531522537,
+          48.45002490270253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396964258465589,
+          48.68957789888794
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09275",
+        "name": "Neukirchen vorm Wald",
+        "population": 2982,
+        "area": 24.36,
+        "centroid_coordinates": [
+          13.396964258465589,
+          48.68957789888794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61418780522696,
+          48.57326367957347
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "land-id": "09275",
+        "name": "Obernzell",
+        "population": 3640,
+        "area": 18.17,
+        "centroid_coordinates": [
+          13.61418780522696,
+          48.57326367957347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21819252414934,
+          48.55458802698181
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09275",
+        "name": "Ortenburg",
+        "population": 7356,
+        "area": 60.81,
+        "centroid_coordinates": [
+          13.21819252414934,
+          48.55458802698181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.327855212845165,
+          48.395404150575544
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09275",
+        "name": "Pocking",
+        "population": 16293,
+        "area": 68.91,
+        "centroid_coordinates": [
+          13.327855212845165,
+          48.395404150575544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19582266602576,
+          48.3807107344164
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09275",
+        "name": "Rotthalmünster",
+        "population": 4671,
+        "area": 44.54,
+        "centroid_coordinates": [
+          13.19582266602576,
+          48.3807107344164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.408066801398833,
+          48.660444811207725
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09275",
+        "name": "Ruderting",
+        "population": 3050,
+        "area": 13.04,
+        "centroid_coordinates": [
+          13.408066801398833,
+          48.660444811207725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31719797007437,
+          48.46564239432995
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09275",
+        "name": "Ruhstorf a.d.Rott",
+        "population": 7109,
+        "area": 51.49,
+        "centroid_coordinates": [
+          13.31719797007437,
+          48.46564239432995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.480195066563384,
+          48.62528315287576
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09275",
+        "name": "Salzweg",
+        "population": 6503,
+        "area": 31.9,
+        "centroid_coordinates": [
+          13.480195066563384,
+          48.62528315287576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.716471833196433,
+          48.67307183264106
+        ]
+      },
+      "properties": {
+        "id": "148",
+        "land-id": "09275",
+        "name": "Sonnen",
+        "population": 1435,
+        "area": 16.45,
+        "centroid_coordinates": [
+          13.716471833196433,
+          48.67307183264106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.268310520412712,
+          48.43321084564376
+        ]
+      },
+      "properties": {
+        "id": "149",
+        "land-id": "09275",
+        "name": "Tettenweis",
+        "population": 1868,
+        "area": 28.73,
+        "centroid_coordinates": [
+          13.268310520412712,
+          48.43321084564376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.550978735792203,
+          48.60884653096721
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "land-id": "09275",
+        "name": "Thyrnau",
+        "population": 4185,
+        "area": 33.82,
+        "centroid_coordinates": [
+          13.550978735792203,
+          48.60884653096721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.369952617804735,
+          48.635813302547746
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09275",
+        "name": "Tiefenbach",
+        "population": 6472,
+        "area": 49.64,
+        "centroid_coordinates": [
+          13.369952617804735,
+          48.635813302547746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.373870494346708,
+          48.733243980287014
+        ]
+      },
+      "properties": {
+        "id": "152",
+        "land-id": "09275",
+        "name": "Tittling",
+        "population": 4128,
+        "area": 20.74,
+        "centroid_coordinates": [
+          13.373870494346708,
+          48.733243980287014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.686211774150067,
+          48.574236985666325
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09275",
+        "name": "Untergriesbach",
+        "population": 6057,
+        "area": 73.68,
+        "centroid_coordinates": [
+          13.686211774150067,
+          48.574236985666325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.180493386516414,
+          48.616786023824616
+        ]
+      },
+      "properties": {
+        "id": "154",
+        "land-id": "09275",
+        "name": "Vilshofen an der Donau",
+        "population": 18039,
+        "area": 86.28,
+        "centroid_coordinates": [
+          13.180493386516414,
+          48.616786023824616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.766918899181634,
+          48.618471333523075
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "land-id": "09275",
+        "name": "Wegscheid",
+        "population": 5412,
+        "area": 80.59,
+        "centroid_coordinates": [
+          13.766918899181634,
+          48.618471333523075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26360430234725,
+          48.64154700088802
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "land-id": "09275",
+        "name": "Windorf",
+        "population": 4984,
+        "area": 56.85,
+        "centroid_coordinates": [
+          13.26360430234725,
+          48.64154700088802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.421778071469,
+          48.72400230724419
+        ]
+      },
+      "properties": {
+        "id": "160",
+        "land-id": "09275",
+        "name": "Witzmannsberg",
+        "population": 1536,
+        "area": 18.61,
+        "centroid_coordinates": [
+          13.421778071469,
+          48.72400230724419
+        ]
+      }
+    }
+  ]
+}

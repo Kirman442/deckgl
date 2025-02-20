@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.466711075936578,
+          49.11807506510384
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09373",
+        "name": "Berching",
+        "population": 9034,
+        "area": 131.35,
+        "centroid_coordinates": [
+          11.466711075936578,
+          49.11807506510384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.442949651832796,
+          49.35317490249002
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09373",
+        "name": "Berg b.Neumarkt i.d.OPf.",
+        "population": 7998,
+        "area": 65.1,
+        "centroid_coordinates": [
+          11.442949651832796,
+          49.35317490249002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.385302894036005,
+          49.251246147436795
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "land-id": "09373",
+        "name": "Berngau",
+        "population": 2645,
+        "area": 27.05,
+        "centroid_coordinates": [
+          11.385302894036005,
+          49.251246147436795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.632330106879,
+          49.09174479152122
+        ]
+      },
+      "properties": {
+        "id": "115",
+        "land-id": "09373",
+        "name": "Breitenbrunn",
+        "population": 3672,
+        "area": 70.81,
+        "centroid_coordinates": [
+          11.632330106879,
+          49.09174479152122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.539375532341055,
+          49.212940931080716
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09373",
+        "name": "Deining",
+        "population": 5395,
+        "area": 71.25,
+        "centroid_coordinates": [
+          11.539375532341055,
+          49.212940931080716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.590868958682444,
+          49.029055378449335
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09373",
+        "name": "Dietfurt a.d.Altmühl",
+        "population": 6394,
+        "area": 78.7,
+        "centroid_coordinates": [
+          11.590868958682444,
+          49.029055378449335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.34056066915757,
+          49.18498000778932
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09373",
+        "name": "Freystadt",
+        "population": 9093,
+        "area": 80.53,
+        "centroid_coordinates": [
+          11.34056066915757,
+          49.18498000778932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.851387124119826,
+          49.22587206133031
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09373",
+        "name": "Hohenfels",
+        "population": 2309,
+        "area": 136.97,
+        "centroid_coordinates": [
+          11.851387124119826,
+          49.22587206133031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5652226761956,
+          49.372774063712335
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "land-id": "09373",
+        "name": "Lauterhofen",
+        "population": 3739,
+        "area": 83.09,
+        "centroid_coordinates": [
+          11.5652226761956,
+          49.372774063712335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.757935038638504,
+          49.15770985012667
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09373",
+        "name": "Lupburg",
+        "population": 2572,
+        "area": 30.64,
+        "centroid_coordinates": [
+          11.757935038638504,
+          49.15770985012667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.42991183339612,
+          49.18046607726388
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09373",
+        "name": "Mühlhausen",
+        "population": 5292,
+        "area": 36.91,
+        "centroid_coordinates": [
+          11.42991183339612,
+          49.18046607726388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.472974128922427,
+          49.28249649557716
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09373",
+        "name": "Neumarkt i.d.OPf.",
+        "population": 41055,
+        "area": 79.07,
+        "centroid_coordinates": [
+          11.472974128922427,
+          49.28249649557716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.720586919778288,
+          49.17089306023367
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09373",
+        "name": "Parsberg",
+        "population": 7815,
+        "area": 57.36,
+        "centroid_coordinates": [
+          11.720586919778288,
+          49.17089306023367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.541408893057318,
+          49.327635425655224
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09373",
+        "name": "Pilsach",
+        "population": 2857,
+        "area": 47.68,
+        "centroid_coordinates": [
+          11.541408893057318,
+          49.327635425655224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.354446374241313,
+          49.28986070110513
+        ]
+      },
+      "properties": {
+        "id": "155",
+        "land-id": "09373",
+        "name": "Postbauer-Heng",
+        "population": 7945,
+        "area": 24.68,
+        "centroid_coordinates": [
+          11.354446374241313,
+          49.28986070110513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.270751573287964,
+          49.28929658305599
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "land-id": "09373",
+        "name": "Pyrbaum",
+        "population": 5808,
+        "area": 50.32,
+        "centroid_coordinates": [
+          11.270751573287964,
+          49.28929658305599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.44807112202477,
+          49.223096844920015
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "land-id": "09373",
+        "name": "Sengenthal",
+        "population": 4134,
+        "area": 28.56,
+        "centroid_coordinates": [
+          11.44807112202477,
+          49.223096844920015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61749476522022,
+          49.155212940343596
+        ]
+      },
+      "properties": {
+        "id": "160",
+        "land-id": "09373",
+        "name": "Seubersdorf i.d.OPf.",
+        "population": 5314,
+        "area": 68.25,
+        "centroid_coordinates": [
+          11.61749476522022,
+          49.155212940343596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.678527980010465,
+          49.26155871023947
+        ]
+      },
+      "properties": {
+        "id": "167",
+        "land-id": "09373",
+        "name": "Velburg",
+        "population": 5405,
+        "area": 175.56,
+        "centroid_coordinates": [
+          11.678527980010465,
+          49.26155871023947
+        ]
+      }
+    }
+  ]
+}

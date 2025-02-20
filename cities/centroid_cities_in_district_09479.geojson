@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.028830075458762,
+          50.01204748668538
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09479",
+        "name": "Bad Alexandersbad",
+        "population": 915,
+        "area": 9.0,
+        "centroid_coordinates": [
+          12.028830075458762,
+          50.01204748668538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.18102811837725,
+          50.0459293023
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09479",
+        "name": "Arzberg",
+        "population": 4894,
+        "area": 43.25,
+        "centroid_coordinates": [
+          12.18102811837725,
+          50.0459293023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.076602730685725,
+          50.0956470656957
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09479",
+        "name": "Höchstädt i.Fichtelgebirge",
+        "population": 1036,
+        "area": 14.95,
+        "centroid_coordinates": [
+          12.076602730685725,
+          50.0956470656957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.188011814269634,
+          50.102439477253704
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09479",
+        "name": "Hohenberg a.d.Eger",
+        "population": 1383,
+        "area": 15.66,
+        "centroid_coordinates": [
+          12.188011814269634,
+          50.102439477253704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95059459971829,
+          50.15259259701011
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09479",
+        "name": "Kirchenlamitz",
+        "population": 3134,
+        "area": 48.4,
+        "centroid_coordinates": [
+          11.95059459971829,
+          50.15259259701011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01781022493335,
+          50.1227350518348
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09479",
+        "name": "Marktleuthen",
+        "population": 2826,
+        "area": 35.46,
+        "centroid_coordinates": [
+          12.01781022493335,
+          50.1227350518348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.101474492334729,
+          50.010323436276884
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09479",
+        "name": "Marktredwitz",
+        "population": 17060,
+        "area": 49.45,
+        "centroid_coordinates": [
+          12.101474492334729,
+          50.010323436276884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.934868021005027,
+          49.982394941486234
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09479",
+        "name": "Nagel",
+        "population": 1660,
+        "area": 7.79,
+        "centroid_coordinates": [
+          11.934868021005027,
+          49.982394941486234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.982233826558948,
+          50.08150990389327
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09479",
+        "name": "Röslau",
+        "population": 2000,
+        "area": 29.9,
+        "centroid_coordinates": [
+          11.982233826558948,
+          50.08150990389327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.237043084445535,
+          50.071883307848516
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09479",
+        "name": "Schirnding",
+        "population": 1133,
+        "area": 16.52,
+        "centroid_coordinates": [
+          12.237043084445535,
+          50.071883307848516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.083646859049873,
+          50.20130449298656
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "land-id": "09479",
+        "name": "Schönwald",
+        "population": 3112,
+        "area": 19.22,
+        "centroid_coordinates": [
+          12.083646859049873,
+          50.20130449298656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.132760648785387,
+          50.165181952155095
+        ]
+      },
+      "properties": {
+        "id": "152",
+        "land-id": "09479",
+        "name": "Selb",
+        "population": 14808,
+        "area": 86.05,
+        "centroid_coordinates": [
+          12.132760648785387,
+          50.165181952155095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.12585767108908,
+          50.07276111953911
+        ]
+      },
+      "properties": {
+        "id": "158",
+        "land-id": "09479",
+        "name": "Thiersheim",
+        "population": 1737,
+        "area": 24.41,
+        "centroid_coordinates": [
+          12.12585767108908,
+          50.07276111953911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.098229637593988,
+          50.11879739176356
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "land-id": "09479",
+        "name": "Thierstein",
+        "population": 1047,
+        "area": 13.04,
+        "centroid_coordinates": [
+          12.098229637593988,
+          50.11879739176356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.931183840217237,
+          50.034361634212054
+        ]
+      },
+      "properties": {
+        "id": "161",
+        "land-id": "09479",
+        "name": "Tröstau",
+        "population": 2071,
+        "area": 19.27,
+        "centroid_coordinates": [
+          11.931183840217237,
+          50.034361634212054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.874454138268987,
+          50.09346516168016
+        ]
+      },
+      "properties": {
+        "id": "166",
+        "land-id": "09479",
+        "name": "Weißenstadt",
+        "population": 2862,
+        "area": 65.75,
+        "centroid_coordinates": [
+          11.874454138268987,
+          50.09346516168016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.015794832036,
+          50.04517541674567
+        ]
+      },
+      "properties": {
+        "id": "169",
+        "land-id": "09479",
+        "name": "Wunsiedel",
+        "population": 8981,
+        "area": 54.86,
+        "centroid_coordinates": [
+          12.015794832036,
+          50.04517541674567
+        ]
+      }
+    }
+  ]
+}

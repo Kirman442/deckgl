@@ -1,0 +1,572 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.450163945661252,
+          48.508338309753526
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09773",
+        "name": "Aislingen",
+        "population": 1329,
+        "area": 19.22,
+        "centroid_coordinates": [
+          10.450163945661252,
+          48.508338309753526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.335004826794155,
+          48.634662307276486
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09773",
+        "name": "Bachhagel",
+        "population": 2306,
+        "area": 19.8,
+        "centroid_coordinates": [
+          10.335004826794155,
+          48.634662307276486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.321355582335459,
+          48.53749285048044
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09773",
+        "name": "Bächingen a.d.Brenz",
+        "population": 1354,
+        "area": 7.34,
+        "centroid_coordinates": [
+          10.321355582335459,
+          48.53749285048044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.63391199626471,
+          48.56753333546393
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09773",
+        "name": "Binswangen",
+        "population": 1351,
+        "area": 11.98,
+        "centroid_coordinates": [
+          10.63391199626471,
+          48.56753333546393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.579636232606084,
+          48.71878391876459
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09773",
+        "name": "Bissingen",
+        "population": 3574,
+        "area": 64.22,
+        "centroid_coordinates": [
+          10.579636232606084,
+          48.71878391876459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.614367630254192,
+          48.646372445892254
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09773",
+        "name": "Blindheim",
+        "population": 1785,
+        "area": 26.36,
+        "centroid_coordinates": [
+          10.614367630254192,
+          48.646372445892254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.719287830727652,
+          48.610690796304695
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09773",
+        "name": "Buttenwiesen",
+        "population": 6040,
+        "area": 59.5,
+        "centroid_coordinates": [
+          10.719287830727652,
+          48.610690796304695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.531274231850105,
+          48.57486412831883
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "land-id": "09773",
+        "name": "Dillingen a.d.Donau",
+        "population": 19792,
+        "area": 75.54,
+        "centroid_coordinates": [
+          10.531274231850105,
+          48.57486412831883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.488036882684044,
+          48.50136312025379
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09773",
+        "name": "Glött",
+        "population": 1110,
+        "area": 10.98,
+        "centroid_coordinates": [
+          10.488036882684044,
+          48.50136312025379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.353652785344073,
+          48.525619743776346
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09773",
+        "name": "Gundelfingen a.d.Donau",
+        "population": 7743,
+        "area": 53.93,
+        "centroid_coordinates": [
+          10.353652785344073,
+          48.525619743776346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.362423421716947,
+          48.606553791458325
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "land-id": "09773",
+        "name": "Haunsheim",
+        "population": 1620,
+        "area": 17.78,
+        "centroid_coordinates": [
+          10.362423421716947,
+          48.606553791458325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.574656949231745,
+          48.624341495929364
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09773",
+        "name": "Höchstädt a.d.Donau",
+        "population": 6956,
+        "area": 37.41,
+        "centroid_coordinates": [
+          10.574656949231745,
+          48.624341495929364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.53736677619499,
+          48.50953443499232
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "land-id": "09773",
+        "name": "Holzheim",
+        "population": 3770,
+        "area": 40.84,
+        "centroid_coordinates": [
+          10.53736677619499,
+          48.50953443499232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.707714162278336,
+          48.51148374019696
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09773",
+        "name": "Laugna",
+        "population": 1552,
+        "area": 27.57,
+        "centroid_coordinates": [
+          10.707714162278336,
+          48.51148374019696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.427702568187255,
+          48.56270136826231
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09773",
+        "name": "Lauingen (Donau)",
+        "population": 11482,
+        "area": 44.4,
+        "centroid_coordinates": [
+          10.427702568187255,
+          48.56270136826231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.539149842352359,
+          48.66986020005474
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09773",
+        "name": "Lutzingen",
+        "population": 957,
+        "area": 24.94,
+        "centroid_coordinates": [
+          10.539149842352359,
+          48.66986020005474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45152130757476,
+          48.6422677310984
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09773",
+        "name": "Mödingen",
+        "population": 1418,
+        "area": 23.02,
+        "centroid_coordinates": [
+          10.45152130757476,
+          48.6422677310984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.498806662614577,
+          48.65232201092064
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "land-id": "09773",
+        "name": "Finningen",
+        "population": 1854,
+        "area": 27.84,
+        "centroid_coordinates": [
+          10.498806662614577,
+          48.65232201092064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.326299951546146,
+          48.57831233559483
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "land-id": "09773",
+        "name": "Medlingen",
+        "population": 984,
+        "area": 17.08,
+        "centroid_coordinates": [
+          10.326299951546146,
+          48.57831233559483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.657264791963941,
+          48.645003633365185
+        ]
+      },
+      "properties": {
+        "id": "164",
+        "land-id": "09773",
+        "name": "Schwenningen",
+        "population": 1416,
+        "area": 25.07,
+        "centroid_coordinates": [
+          10.657264791963941,
+          48.645003633365185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.28872673349079,
+          48.65879096147379
+        ]
+      },
+      "properties": {
+        "id": "170",
+        "land-id": "09773",
+        "name": "Syrgenstein",
+        "population": 3865,
+        "area": 16.64,
+        "centroid_coordinates": [
+          10.28872673349079,
+          48.65879096147379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.599628269966153,
+          48.51381035994808
+        ]
+      },
+      "properties": {
+        "id": "179",
+        "land-id": "09773",
+        "name": "Villenbach",
+        "population": 1272,
+        "area": 17.77,
+        "centroid_coordinates": [
+          10.599628269966153,
+          48.51381035994808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.706921181446432,
+          48.55477193148911
+        ]
+      },
+      "properties": {
+        "id": "182",
+        "land-id": "09773",
+        "name": "Wertingen",
+        "population": 9331,
+        "area": 51.79,
+        "centroid_coordinates": [
+          10.706921181446432,
+          48.55477193148911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.425054621323438,
+          48.61378427739893
+        ]
+      },
+      "properties": {
+        "id": "183",
+        "land-id": "09773",
+        "name": "Wittislingen",
+        "population": 2517,
+        "area": 17.37,
+        "centroid_coordinates": [
+          10.425054621323438,
+          48.61378427739893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.398559125389164,
+          48.66132688780262
+        ]
+      },
+      "properties": {
+        "id": "186",
+        "land-id": "09773",
+        "name": "Ziertheim",
+        "population": 1111,
+        "area": 20.81,
+        "centroid_coordinates": [
+          10.398559125389164,
+          48.66132688780262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.312159514415132,
+          48.67867589223038
+        ]
+      },
+      "properties": {
+        "id": "187",
+        "land-id": "09773",
+        "name": "Zöschingen",
+        "population": 774,
+        "area": 14.61,
+        "centroid_coordinates": [
+          10.312159514415132,
+          48.67867589223038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.633613232789733,
+          48.52540035842114
+        ]
+      },
+      "properties": {
+        "id": "188",
+        "land-id": "09773",
+        "name": "Zusamaltheim",
+        "population": 1280,
+        "area": 17.98,
+        "centroid_coordinates": [
+          10.633613232789733,
+          48.52540035842114
+        ]
+      }
+    }
+  ]
+}
