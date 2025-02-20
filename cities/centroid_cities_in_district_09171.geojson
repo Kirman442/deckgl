@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.665815305511149,
+          48.228014495187224
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09171",
+        "name": "Altötting",
+        "population": 13050,
+        "area": 23.07,
+        "centroid_coordinates": [
+          12.665815305511149,
+          48.228014495187224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.815405311891347,
+          48.164945119666775
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09171",
+        "name": "Burghausen",
+        "population": 19562,
+        "area": 19.85,
+        "centroid_coordinates": [
+          12.815405311891347,
+          48.164945119666775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.72288625148805,
+          48.150266610322355
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09171",
+        "name": "Burgkirchen a.d.Alz",
+        "population": 10867,
+        "area": 46.2,
+        "centroid_coordinates": [
+          12.72288625148805,
+          48.150266610322355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.762564184707788,
+          48.20723871795912
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "land-id": "09171",
+        "name": "Emmerting",
+        "population": 4247,
+        "area": 14.02,
+        "centroid_coordinates": [
+          12.762564184707788,
+          48.20723871795912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.78458169211172,
+          48.30448308923653
+        ]
+      },
+      "properties": {
+        "id": "115",
+        "land-id": "09171",
+        "name": "Erlbach",
+        "population": 1168,
+        "area": 28.07,
+        "centroid_coordinates": [
+          12.78458169211172,
+          48.30448308923653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.599849597114478,
+          48.08882231019667
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09171",
+        "name": "Feichten a.d.Alz",
+        "population": 1359,
+        "area": 17.89,
+        "centroid_coordinates": [
+          12.599849597114478,
+          48.08882231019667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.586974124988004,
+          48.13518678755853
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09171",
+        "name": "Garching a.d.Alz",
+        "population": 8471,
+        "area": 25.92,
+        "centroid_coordinates": [
+          12.586974124988004,
+          48.13518678755853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.869489704899685,
+          48.21954753093379
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09171",
+        "name": "Haiming",
+        "population": 2567,
+        "area": 28.65,
+        "centroid_coordinates": [
+          12.869489704899685,
+          48.21954753093379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.682941584703286,
+          48.11886212847687
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09171",
+        "name": "Halsbach",
+        "population": 1072,
+        "area": 22.0,
+        "centroid_coordinates": [
+          12.682941584703286,
+          48.11886212847687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.686793954839896,
+          48.18778379859345
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09171",
+        "name": "Kastl",
+        "population": 2819,
+        "area": 27.63,
+        "centroid_coordinates": [
+          12.686793954839896,
+          48.18778379859345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.644191283710228,
+          48.098418433816605
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09171",
+        "name": "Kirchweidach",
+        "population": 2899,
+        "area": 20.14,
+        "centroid_coordinates": [
+          12.644191283710228,
+          48.098418433816605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.833726538535437,
+          48.25533014304002
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "land-id": "09171",
+        "name": "Marktl",
+        "population": 2814,
+        "area": 28.01,
+        "centroid_coordinates": [
+          12.833726538535437,
+          48.25533014304002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.790932334067927,
+          48.184782154625694
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09171",
+        "name": "Mehring",
+        "population": 2375,
+        "area": 23.35,
+        "centroid_coordinates": [
+          12.790932334067927,
+          48.184782154625694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.745665469023491,
+          48.24236625605262
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "land-id": "09171",
+        "name": "Neuötting",
+        "population": 9015,
+        "area": 36.68,
+        "centroid_coordinates": [
+          12.745665469023491,
+          48.24236625605262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.769142978318433,
+          48.27121845889484
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09171",
+        "name": "Perach",
+        "population": 1323,
+        "area": 14.18,
+        "centroid_coordinates": [
+          12.769142978318433,
+          48.27121845889484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.62881372030877,
+          48.31691061987235
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09171",
+        "name": "Pleiskirchen",
+        "population": 2459,
+        "area": 52.53,
+        "centroid_coordinates": [
+          12.62881372030877,
+          48.31691061987235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.71425877284662,
+          48.294645364935555
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09171",
+        "name": "Reischach",
+        "population": 2706,
+        "area": 28.43,
+        "centroid_coordinates": [
+          12.71425877284662,
+          48.294645364935555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.875214336352883,
+          48.25092724255747
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "land-id": "09171",
+        "name": "Stammham",
+        "population": 983,
+        "area": 5.65,
+        "centroid_coordinates": [
+          12.875214336352883,
+          48.25092724255747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.611801743530503,
+          48.229770128673664
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09171",
+        "name": "Teising",
+        "population": 1717,
+        "area": 5.38,
+        "centroid_coordinates": [
+          12.611801743530503,
+          48.229770128673664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59324790375286,
+          48.257937630490375
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09171",
+        "name": "Töging a.Inn",
+        "population": 9425,
+        "area": 13.67,
+        "centroid_coordinates": [
+          12.59324790375286,
+          48.257937630490375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.614406037512053,
+          48.206202835981294
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09171",
+        "name": "Tüßling",
+        "population": 3232,
+        "area": 19.6,
+        "centroid_coordinates": [
+          12.614406037512053,
+          48.206202835981294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.664743825879404,
+          48.06534163750812
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09171",
+        "name": "Tyrlaching",
+        "population": 1073,
+        "area": 20.54,
+        "centroid_coordinates": [
+          12.664743825879404,
+          48.06534163750812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.621548398470095,
+          48.167700887029184
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09171",
+        "name": "Unterneukirchen",
+        "population": 3453,
+        "area": 23.22,
+        "centroid_coordinates": [
+          12.621548398470095,
+          48.167700887029184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.655798926672915,
+          48.269795211395326
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "land-id": "09171",
+        "name": "Winhöring",
+        "population": 4835,
+        "area": 24.53,
+        "centroid_coordinates": [
+          12.655798926672915,
+          48.269795211395326
+        ]
+      }
+    }
+  ]
+}

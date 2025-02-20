@@ -1,0 +1,614 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.715400657368983,
+          48.1853352599827
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09184",
+        "name": "Aschheim",
+        "population": 9138,
+        "area": 28.01,
+        "centroid_coordinates": [
+          11.715400657368983,
+          48.1853352599827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.480135607886336,
+          48.014685384380925
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09184",
+        "name": "Baierbrunn",
+        "population": 3391,
+        "area": 7.17,
+        "centroid_coordinates": [
+          11.480135607886336,
+          48.014685384380925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.691805682022196,
+          47.990450697615124
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "land-id": "09184",
+        "name": "Brunnthal",
+        "population": 5426,
+        "area": 38.0,
+        "centroid_coordinates": [
+          11.691805682022196,
+          47.990450697615124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.731314296580942,
+          48.14577051966411
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09184",
+        "name": "Feldkirchen",
+        "population": 7703,
+        "area": 6.36,
+        "centroid_coordinates": [
+          11.731314296580942,
+          48.14577051966411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.639544128097977,
+          48.24809382777725
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09184",
+        "name": "Garching b.München",
+        "population": 17745,
+        "area": 28.08,
+        "centroid_coordinates": [
+          11.639544128097977,
+          48.24809382777725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.436702280232701,
+          48.12269249019678
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09184",
+        "name": "Gräfelfing",
+        "population": 13616,
+        "area": 9.56,
+        "centroid_coordinates": [
+          11.436702280232701,
+          48.12269249019678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.760423744802704,
+          48.07285858404902
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09184",
+        "name": "Grasbrunn",
+        "population": 6583,
+        "area": 26.36,
+        "centroid_coordinates": [
+          11.760423744802704,
+          48.07285858404902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.535317798902238,
+          48.045483422331976
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09184",
+        "name": "Grünwald",
+        "population": 11186,
+        "area": 7.63,
+        "centroid_coordinates": [
+          11.535317798902238,
+          48.045483422331976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.732910062680249,
+          48.118051622702886
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "land-id": "09184",
+        "name": "Haar",
+        "population": 22566,
+        "area": 12.88,
+        "centroid_coordinates": [
+          11.732910062680249,
+          48.118051622702886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.738519915481254,
+          48.02023909130754
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09184",
+        "name": "Höhenkirchen-Siegertsbrunn",
+        "population": 11076,
+        "area": 23.72,
+        "centroid_coordinates": [
+          11.738519915481254,
+          48.02023909130754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.71071826511279,
+          48.050054783734815
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09184",
+        "name": "Hohenbrunn",
+        "population": 9045,
+        "area": 18.62,
+        "centroid_coordinates": [
+          11.71071826511279,
+          48.050054783734815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.70472855556759,
+          48.24055841013573
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "land-id": "09184",
+        "name": "Ismaning",
+        "population": 17740,
+        "area": 40.26,
+        "centroid_coordinates": [
+          11.70472855556759,
+          48.24055841013573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.751034796523724,
+          48.18229871391382
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09184",
+        "name": "Kirchheim b.München",
+        "population": 12985,
+        "area": 15.61,
+        "centroid_coordinates": [
+          11.751034796523724,
+          48.18229871391382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.439280898363569,
+          48.08058498008537
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09184",
+        "name": "Neuried",
+        "population": 8812,
+        "area": 9.56,
+        "centroid_coordinates": [
+          11.439280898363569,
+          48.08058498008537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.580456935605078,
+          48.00300489376028
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09184",
+        "name": "Oberhaching",
+        "population": 13340,
+        "area": 33.07,
+        "centroid_coordinates": [
+          11.580456935605078,
+          48.00300489376028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.561121026462454,
+          48.248046886732325
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09184",
+        "name": "Oberschleißheim",
+        "population": 11785,
+        "area": 30.37,
+        "centroid_coordinates": [
+          11.561121026462454,
+          48.248046886732325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.664234324586657,
+          48.06391808732988
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09184",
+        "name": "Ottobrunn",
+        "population": 22868,
+        "area": 5.3,
+        "centroid_coordinates": [
+          11.664234324586657,
+          48.06391808732988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.77353146702493,
+          47.95701790615104
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "land-id": "09184",
+        "name": "Aying",
+        "population": 5639,
+        "area": 56.55,
+        "centroid_coordinates": [
+          11.77353146702493,
+          47.95701790615104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.429767080264346,
+          48.102651841778005
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09184",
+        "name": "Planegg",
+        "population": 11001,
+        "area": 10.72,
+        "centroid_coordinates": [
+          11.429767080264346,
+          48.102651841778005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51902776983802,
+          48.056816784690724
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09184",
+        "name": "Pullach i.Isartal",
+        "population": 8623,
+        "area": 7.35,
+        "centroid_coordinates": [
+          11.51902776983802,
+          48.056816784690724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.706600108108262,
+          48.08279021865661
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "land-id": "09184",
+        "name": "Putzbrunn",
+        "population": 6816,
+        "area": 11.12,
+        "centroid_coordinates": [
+          11.706600108108262,
+          48.08279021865661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63560460558413,
+          47.95946637843393
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09184",
+        "name": "Sauerlach",
+        "population": 8090,
+        "area": 56.92,
+        "centroid_coordinates": [
+          11.63560460558413,
+          47.95946637843393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.444579625064478,
+          47.9898122510866
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "land-id": "09184",
+        "name": "Schäftlarn",
+        "population": 5756,
+        "area": 16.7,
+        "centroid_coordinates": [
+          11.444579625064478,
+          47.9898122510866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.516869526829511,
+          47.98179051112418
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09184",
+        "name": "Straßlach-Dingharting",
+        "population": 3274,
+        "area": 28.27,
+        "centroid_coordinates": [
+          11.516869526829511,
+          47.98179051112418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63289711618612,
+          48.03298420643593
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09184",
+        "name": "Taufkirchen",
+        "population": 18042,
+        "area": 21.97,
+        "centroid_coordinates": [
+          11.63289711618612,
+          48.03298420643593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.64425066652164,
+          48.07845158861072
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09184",
+        "name": "Neubiberg",
+        "population": 14318,
+        "area": 5.78,
+        "centroid_coordinates": [
+          11.64425066652164,
+          48.07845158861072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6618806280948,
+          48.190746575461674
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09184",
+        "name": "Unterföhring",
+        "population": 11563,
+        "area": 12.83,
+        "centroid_coordinates": [
+          11.6618806280948,
+          48.190746575461674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61963960867987,
+          48.066613079919435
+        ]
+      },
+      "properties": {
+        "id": "148",
+        "land-id": "09184",
+        "name": "Unterhaching",
+        "population": 26573,
+        "area": 10.31,
+        "centroid_coordinates": [
+          11.61963960867987,
+          48.066613079919435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.559770924196416,
+          48.276408949288694
+        ]
+      },
+      "properties": {
+        "id": "149",
+        "land-id": "09184",
+        "name": "Unterschleißheim",
+        "population": 28486,
+        "area": 14.99,
+        "centroid_coordinates": [
+          11.559770924196416,
+          48.276408949288694
+        ]
+      }
+    }
+  ]
+}

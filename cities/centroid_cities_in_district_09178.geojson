@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.590388394540636,
+          48.433959309439096
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09178",
+        "name": "Allershausen",
+        "population": 5884,
+        "area": 26.51,
+        "centroid_coordinates": [
+          11.590388394540636,
+          48.433959309439096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75318940392386,
+          48.505140293391456
+        ]
+      },
+      "properties": {
+        "id": "115",
+        "land-id": "09178",
+        "name": "Attenkirchen",
+        "population": 2753,
+        "area": 16.13,
+        "centroid_coordinates": [
+          11.75318940392386,
+          48.505140293391456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.717082633340318,
+          48.550131195244994
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09178",
+        "name": "Au i.d.Hallertau",
+        "population": 6287,
+        "area": 55.0,
+        "centroid_coordinates": [
+          11.717082633340318,
+          48.550131195244994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625433072739039,
+          48.29699678911215
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09178",
+        "name": "Eching",
+        "population": 14555,
+        "area": 37.28,
+        "centroid_coordinates": [
+          11.625433072739039,
+          48.29699678911215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.783356019981793,
+          48.58743671267852
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09178",
+        "name": "Rudelzhausen",
+        "population": 3527,
+        "area": 40.86,
+        "centroid_coordinates": [
+          11.783356019981793,
+          48.58743671267852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.563019790429179,
+          48.363116621624386
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "land-id": "09178",
+        "name": "Fahrenzhausen",
+        "population": 5043,
+        "area": 37.63,
+        "centroid_coordinates": [
+          11.563019790429179,
+          48.363116621624386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.726640391429884,
+          48.3920192826634
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09178",
+        "name": "Freising",
+        "population": 48651,
+        "area": 88.64,
+        "centroid_coordinates": [
+          11.726640391429884,
+          48.3920192826634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.936753799958312,
+          48.55547510161838
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "land-id": "09178",
+        "name": "Gammelsdorf",
+        "population": 1575,
+        "area": 21.64,
+        "centroid_coordinates": [
+          11.936753799958312,
+          48.55547510161838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.835345401137328,
+          48.47019474933076
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09178",
+        "name": "Haag a.d.Amper",
+        "population": 2724,
+        "area": 21.71,
+        "centroid_coordinates": [
+          11.835345401137328,
+          48.47019474933076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.73270080707775,
+          48.31406141305271
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "land-id": "09178",
+        "name": "Hallbergmoos",
+        "population": 11982,
+        "area": 35.07,
+        "centroid_coordinates": [
+          11.73270080707775,
+          48.31406141305271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.870675887560543,
+          48.557313035204984
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09178",
+        "name": "Hörgertshausen",
+        "population": 1998,
+        "area": 21.43,
+        "centroid_coordinates": [
+          11.870675887560543,
+          48.557313035204984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.533503896542475,
+          48.425817570704375
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09178",
+        "name": "Hohenkammer",
+        "population": 2685,
+        "area": 25.74,
+        "centroid_coordinates": [
+          11.533503896542475,
+          48.425817570704375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.662218821736186,
+          48.45910711234524
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09178",
+        "name": "Kirchdorf a.d.Amper",
+        "population": 3361,
+        "area": 32.95,
+        "centroid_coordinates": [
+          11.662218821736186,
+          48.45910711234524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.626915527058097,
+          48.40485506169042
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "land-id": "09178",
+        "name": "Kranzberg",
+        "population": 4255,
+        "area": 39.54,
+        "centroid_coordinates": [
+          11.626915527058097,
+          48.40485506169042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85477580762083,
+          48.43439333161681
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "land-id": "09178",
+        "name": "Langenbach",
+        "population": 4026,
+        "area": 26.92,
+        "centroid_coordinates": [
+          11.85477580762083,
+          48.43439333161681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.806410161321251,
+          48.405429994758386
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "land-id": "09178",
+        "name": "Marzling",
+        "population": 3296,
+        "area": 20.5,
+        "centroid_coordinates": [
+          11.806410161321251,
+          48.405429994758386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.902197623605241,
+          48.52419975368271
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "land-id": "09178",
+        "name": "Mauern",
+        "population": 3127,
+        "area": 24.19,
+        "centroid_coordinates": [
+          11.902197623605241,
+          48.52419975368271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.939345643130324,
+          48.461894955232026
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09178",
+        "name": "Moosburg a.d.Isar",
+        "population": 19970,
+        "area": 43.94,
+        "centroid_coordinates": [
+          11.939345643130324,
+          48.461894955232026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.81124874401852,
+          48.53079282631738
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09178",
+        "name": "Nandlstadt",
+        "population": 5621,
+        "area": 34.35,
+        "centroid_coordinates": [
+          11.81124874401852,
+          48.53079282631738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.655273114802636,
+          48.33478106612973
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09178",
+        "name": "Neufahrn b.Freising",
+        "population": 21122,
+        "area": 45.52,
+        "centroid_coordinates": [
+          11.655273114802636,
+          48.33478106612973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.566910841344107,
+          48.470693092734905
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "land-id": "09178",
+        "name": "Paunzhausen",
+        "population": 1598,
+        "area": 12.73,
+        "centroid_coordinates": [
+          11.566910841344107,
+          48.470693092734905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.918456144094128,
+          48.49747614918099
+        ]
+      },
+      "properties": {
+        "id": "155",
+        "land-id": "09178",
+        "name": "Wang",
+        "population": 2445,
+        "area": 31.12,
+        "centroid_coordinates": [
+          11.918456144094128,
+          48.49747614918099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.707023471089222,
+          48.49208052338278
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "land-id": "09178",
+        "name": "Wolfersdorf",
+        "population": 2613,
+        "area": 26.05,
+        "centroid_coordinates": [
+          11.707023471089222,
+          48.49208052338278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.76800759771774,
+          48.468503860449886
+        ]
+      },
+      "properties": {
+        "id": "157",
+        "land-id": "09178",
+        "name": "Zolling",
+        "population": 4993,
+        "area": 34.52,
+        "centroid_coordinates": [
+          11.76800759771774,
+          48.468503860449886
+        ]
+      }
+    }
+  ]
+}

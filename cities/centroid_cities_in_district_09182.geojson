@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.694734097244412,
+          47.70059900211272
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09182",
+        "name": "Bad Wiessee",
+        "population": 4854,
+        "area": 32.85,
+        "centroid_coordinates": [
+          11.694734097244412,
+          47.70059900211272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.985433380590328,
+          47.65737732007975
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "land-id": "09182",
+        "name": "Bayrischzell",
+        "population": 1504,
+        "area": 79.46,
+        "centroid_coordinates": [
+          11.985433380590328,
+          47.65737732007975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.947953847158324,
+          47.736779557898295
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "land-id": "09182",
+        "name": "Fischbachau",
+        "population": 5614,
+        "area": 75.86,
+        "centroid_coordinates": [
+          11.947953847158324,
+          47.736779557898295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.744834920039867,
+          47.752944720236506
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "land-id": "09182",
+        "name": "Gmund a.Tegernsee",
+        "population": 5766,
+        "area": 34.45,
+        "centroid_coordinates": [
+          11.744834920039867,
+          47.752944720236506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.827881269207728,
+          47.75319493204743
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "land-id": "09182",
+        "name": "Hausham",
+        "population": 8108,
+        "area": 22.28,
+        "centroid_coordinates": [
+          11.827881269207728,
+          47.75319493204743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.679312010126226,
+          47.864227282701194
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09182",
+        "name": "Holzkirchen",
+        "population": 16198,
+        "area": 48.31,
+        "centroid_coordinates": [
+          11.679312010126226,
+          47.864227282701194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.897014976827924,
+          47.82043955728249
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "land-id": "09182",
+        "name": "Irschenberg",
+        "population": 3162,
+        "area": 53.99,
+        "centroid_coordinates": [
+          11.897014976827924,
+          47.82043955728249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.730234615470529,
+          47.62574249230852
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09182",
+        "name": "Kreuth",
+        "population": 3399,
+        "area": 122.21,
+        "centroid_coordinates": [
+          11.730234615470529,
+          47.62574249230852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8352893602833,
+          47.7875622203369
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "land-id": "09182",
+        "name": "Miesbach",
+        "population": 11597,
+        "area": 32.45,
+        "centroid_coordinates": [
+          11.8352893602833,
+          47.7875622203369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.674141923536228,
+          47.9143687832273
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09182",
+        "name": "Otterfing",
+        "population": 4608,
+        "area": 21.14,
+        "centroid_coordinates": [
+          11.674141923536228,
+          47.9143687832273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.825379518896366,
+          47.65187698994383
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "land-id": "09182",
+        "name": "Rottach-Egern",
+        "population": 5473,
+        "area": 59.15,
+        "centroid_coordinates": [
+          11.825379518896366,
+          47.65187698994383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87502816469228,
+          47.68694941516794
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09182",
+        "name": "Schliersee",
+        "population": 6574,
+        "area": 79.14,
+        "centroid_coordinates": [
+          11.87502816469228,
+          47.68694941516794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.76400539123926,
+          47.714596724198294
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09182",
+        "name": "Tegernsee",
+        "population": 3769,
+        "area": 22.7,
+        "centroid_coordinates": [
+          11.76400539123926,
+          47.714596724198294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.763027800757891,
+          47.885865332909404
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "land-id": "09182",
+        "name": "Valley",
+        "population": 3378,
+        "area": 42.18,
+        "centroid_coordinates": [
+          11.763027800757891,
+          47.885865332909404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.675645283161268,
+          47.7714101728606
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "land-id": "09182",
+        "name": "Waakirchen",
+        "population": 5399,
+        "area": 42.4,
+        "centroid_coordinates": [
+          11.675645283161268,
+          47.7714101728606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.737906946656757,
+          47.817567674935944
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09182",
+        "name": "Warngau",
+        "population": 3792,
+        "area": 51.32,
+        "centroid_coordinates": [
+          11.737906946656757,
+          47.817567674935944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.814945774930719,
+          47.858068127084884
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "land-id": "09182",
+        "name": "Weyarn",
+        "population": 3779,
+        "area": 46.68,
+        "centroid_coordinates": [
+          11.814945774930719,
+          47.858068127084884
+        ]
+      }
+    }
+  ]
+}

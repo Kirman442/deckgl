@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.379879470462999,
+          47.95900902199142
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09188",
+        "name": "Berg",
+        "population": 8061,
+        "area": 36.64,
+        "centroid_coordinates": [
+          11.379879470462999,
+          47.95900902199142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.207653949656276,
+          47.968793952153376
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "land-id": "09188",
+        "name": "Andechs",
+        "population": 3858,
+        "area": 40.5,
+        "centroid_coordinates": [
+          11.207653949656276,
+          47.968793952153376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28486210133103,
+          47.945629050807085
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09188",
+        "name": "Feldafing",
+        "population": 4346,
+        "area": 9.21,
+        "centroid_coordinates": [
+          11.28486210133103,
+          47.945629050807085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.353923316709022,
+          48.0603981130838
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "land-id": "09188",
+        "name": "Gauting",
+        "population": 21884,
+        "area": 55.5,
+        "centroid_coordinates": [
+          11.353923316709022,
+          48.0603981130838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27623024912343,
+          48.111357825661365
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09188",
+        "name": "Gilching",
+        "population": 19039,
+        "area": 31.49,
+        "centroid_coordinates": [
+          11.27623024912343,
+          48.111357825661365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.166081448128299,
+          48.00794878611896
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "land-id": "09188",
+        "name": "Herrsching a.Ammersee",
+        "population": 11098,
+        "area": 20.89,
+        "centroid_coordinates": [
+          11.166081448128299,
+          48.00794878611896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.156588823671608,
+          48.072427579344584
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09188",
+        "name": "Inning a.Ammersee",
+        "population": 4790,
+        "area": 24.33,
+        "centroid_coordinates": [
+          11.156588823671608,
+          48.072427579344584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.361946299732915,
+          48.094411255603625
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "land-id": "09188",
+        "name": "Krailling",
+        "population": 7835,
+        "area": 16.02,
+        "centroid_coordinates": [
+          11.361946299732915,
+          48.094411255603625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.223887440475893,
+          48.036416666869584
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "land-id": "09188",
+        "name": "Seefeld",
+        "population": 7662,
+        "area": 34.88,
+        "centroid_coordinates": [
+          11.223887440475893,
+          48.036416666869584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28356526274748,
+          47.972738196749646
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "land-id": "09188",
+        "name": "Pöcking",
+        "population": 5605,
+        "area": 20.9,
+        "centroid_coordinates": [
+          11.28356526274748,
+          47.972738196749646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.332677185838929,
+          48.0103216246131
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "land-id": "09188",
+        "name": "Starnberg",
+        "population": 24466,
+        "area": 61.86,
+        "centroid_coordinates": [
+          11.332677185838929,
+          48.0103216246131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.244960470798064,
+          47.91037275200379
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09188",
+        "name": "Tutzing",
+        "population": 9915,
+        "area": 35.7,
+        "centroid_coordinates": [
+          11.244960470798064,
+          47.91037275200379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26260820762739,
+          48.0737642447878
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "land-id": "09188",
+        "name": "Weßling",
+        "population": 5508,
+        "area": 22.56,
+        "centroid_coordinates": [
+          11.26260820762739,
+          48.0737642447878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.201916439982812,
+          48.08035364041607
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "land-id": "09188",
+        "name": "Wörthsee",
+        "population": 5198,
+        "area": 20.46,
+        "centroid_coordinates": [
+          11.201916439982812,
+          48.08035364041607
+        ]
+      }
+    }
+  ]
+}

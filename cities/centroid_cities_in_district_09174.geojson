@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.237863685159581,
+          48.38968276429141
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "land-id": "09174",
+        "name": "Altomünster",
+        "population": 7758,
+        "area": 75.69,
+        "centroid_coordinates": [
+          11.237863685159581,
+          48.38968276429141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.359969538423648,
+          48.25551417071082
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "land-id": "09174",
+        "name": "Bergkirchen",
+        "population": 7462,
+        "area": 60.04,
+        "centroid_coordinates": [
+          11.359969538423648,
+          48.25551417071082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.43987395201555,
+          48.26806848336261
+        ]
+      },
+      "properties": {
+        "id": "115",
+        "land-id": "09174",
+        "name": "Dachau",
+        "population": 46364,
+        "area": 34.96,
+        "centroid_coordinates": [
+          11.43987395201555,
+          48.26806848336261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.283275659893317,
+          48.33272667024057
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "land-id": "09174",
+        "name": "Erdweg",
+        "population": 6181,
+        "area": 36.1,
+        "centroid_coordinates": [
+          11.283275659893317,
+          48.33272667024057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.541886711295067,
+          48.31601939473385
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "land-id": "09174",
+        "name": "Haimhausen",
+        "population": 5635,
+        "area": 26.89,
+        "centroid_coordinates": [
+          11.541886711295067,
+          48.31601939473385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.480487303298508,
+          48.2970469168807
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "land-id": "09174",
+        "name": "Hebertshausen",
+        "population": 5961,
+        "area": 29.63,
+        "centroid_coordinates": [
+          11.480487303298508,
+          48.2970469168807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.462746831540246,
+          48.22964324700311
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "land-id": "09174",
+        "name": "Karlsfeld",
+        "population": 21442,
+        "area": 15.55,
+        "centroid_coordinates": [
+          11.462746831540246,
+          48.22964324700311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.359766821670648,
+          48.369782417800195
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "land-id": "09174",
+        "name": "Markt Indersdorf",
+        "population": 10086,
+        "area": 68.34,
+        "centroid_coordinates": [
+          11.359766821670648,
+          48.369782417800195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.208007905008618,
+          48.317810385917724
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "land-id": "09174",
+        "name": "Odelzhausen",
+        "population": 5643,
+        "area": 30.37,
+        "centroid_coordinates": [
+          11.208007905008618,
+          48.317810385917724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.476817893993395,
+          48.4076248704026
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "land-id": "09174",
+        "name": "Petershausen",
+        "population": 6383,
+        "area": 32.8,
+        "centroid_coordinates": [
+          11.476817893993395,
+          48.4076248704026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.144914109926704,
+          48.29907527027679
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "land-id": "09174",
+        "name": "Pfaffenhofen a.d.Glonn",
+        "population": 2289,
+        "area": 20.91,
+        "centroid_coordinates": [
+          11.144914109926704,
+          48.29907527027679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.458289296206297,
+          48.3317640257054
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "land-id": "09174",
+        "name": "Röhrmoos",
+        "population": 6448,
+        "area": 31.75,
+        "centroid_coordinates": [
+          11.458289296206297,
+          48.3317640257054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.342645076797224,
+          48.30766767003549
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "land-id": "09174",
+        "name": "Schwabhausen",
+        "population": 6302,
+        "area": 30.28,
+        "centroid_coordinates": [
+          11.342645076797224,
+          48.30766767003549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.256574835171046,
+          48.28756148584982
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "land-id": "09174",
+        "name": "Sulzemoos",
+        "population": 2864,
+        "area": 19.03,
+        "centroid_coordinates": [
+          11.256574835171046,
+          48.28756148584982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.327037870461476,
+          48.43207814505197
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "land-id": "09174",
+        "name": "Hilgertshausen-Tandern",
+        "population": 3365,
+        "area": 28.68,
+        "centroid_coordinates": [
+          11.327037870461476,
+          48.43207814505197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.466255025323859,
+          48.36535919382131
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "land-id": "09174",
+        "name": "Vierkirchen",
+        "population": 4614,
+        "area": 19.37,
+        "centroid_coordinates": [
+          11.466255025323859,
+          48.36535919382131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.415024809837732,
+          48.386966816715784
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "land-id": "09174",
+        "name": "Weichs",
+        "population": 3566,
+        "area": 18.85,
+        "centroid_coordinates": [
+          11.415024809837732,
+          48.386966816715784
+        ]
+      }
+    }
+  ]
+}
