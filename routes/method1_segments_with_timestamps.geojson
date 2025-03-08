@@ -13,6 +13,7 @@
         "segment_id": 1,
         "start_stop": "Start",
         "end_stop": "3",
+        "bus": "21",
         "timestamps": [
           1080.0,
           1155.0,
@@ -43,6 +44,7 @@
         "segment_id": 2,
         "start_stop": "3",
         "end_stop": "5",
+        "bus": "21",
         "timestamps": [
           1230.0,
           1267.5,
@@ -83,6 +85,7 @@
         "segment_id": 3,
         "start_stop": "5",
         "end_stop": "0",
+        "bus": "21",
         "timestamps": [
           1380.0,
           1396.6667,
@@ -148,6 +151,7 @@
         "segment_id": 4,
         "start_stop": "0",
         "end_stop": "7",
+        "bus": "21",
         "timestamps": [
           1530.0,
           1605.0,
@@ -178,6 +182,7 @@
         "segment_id": 5,
         "start_stop": "7",
         "end_stop": "15",
+        "bus": "21",
         "timestamps": [
           1680.0,
           1755.0,
@@ -208,6 +213,7 @@
         "segment_id": 6,
         "start_stop": "15",
         "end_stop": "8",
+        "bus": "21",
         "timestamps": [
           1830.0,
           1905.0,
@@ -238,6 +244,7 @@
         "segment_id": 7,
         "start_stop": "8",
         "end_stop": "9",
+        "bus": "21",
         "timestamps": [
           1980.0,
           2010.0,
@@ -283,6 +290,7 @@
         "segment_id": 8,
         "start_stop": "9",
         "end_stop": "10",
+        "bus": "21",
         "timestamps": [
           2130.0,
           2205.0,
@@ -313,6 +321,7 @@
         "segment_id": 9,
         "start_stop": "10",
         "end_stop": "6",
+        "bus": "21",
         "timestamps": [
           2280.0,
           2310.0,
@@ -358,6 +367,7 @@
         "segment_id": 10,
         "start_stop": "6",
         "end_stop": "11",
+        "bus": "21",
         "timestamps": [
           2430.0,
           2460.0,
@@ -403,6 +413,7 @@
         "segment_id": 11,
         "start_stop": "11",
         "end_stop": "12",
+        "bus": "21",
         "timestamps": [
           2580.0,
           2655.0,
@@ -433,6 +444,7 @@
         "segment_id": 12,
         "start_stop": "12",
         "end_stop": "13",
+        "bus": "21",
         "timestamps": [
           2730.0,
           2780.0,
@@ -468,6 +480,7 @@
         "segment_id": 13,
         "start_stop": "13",
         "end_stop": "2",
+        "bus": "21",
         "timestamps": [
           2880.0,
           2955.0,
@@ -498,6 +511,7 @@
         "segment_id": 14,
         "start_stop": "2",
         "end_stop": "14",
+        "bus": "21",
         "timestamps": [
           3030.0,
           3105.0,
@@ -528,6 +542,7 @@
         "segment_id": 15,
         "start_stop": "14",
         "end_stop": "4",
+        "bus": "21",
         "timestamps": [
           3180.0,
           3217.5,
@@ -568,6 +583,7 @@
         "segment_id": 16,
         "start_stop": "4",
         "end_stop": "End",
+        "bus": "21",
         "timestamps": [
           3330.0,
           3405.0,
